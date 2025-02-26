@@ -15,8 +15,10 @@ print("Hello World")
 
 
 print("Hello", "How you doing today ?")
+print("Hello", "How you doing today ?", "Bharti!")
 
-print("Hello", "how are you?", sep="---")
+
+print("Hello", "how are you?", "Bharti!", sep="---")
 
 # Printing Multiple Values
 name = "Alice"
