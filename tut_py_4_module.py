@@ -7,10 +7,10 @@ A module helps in code organization and reusability, allowing developers to brea
 
 
 Why Do We Need Modules?
-1. Code Reusability – Write once, use multiple times.
-2. Maintainability – Easier to debug and update.
-3. Organization – Keeps code structured.
-4. Namespace Management – Avoids naming conflicts by keeping code separate.
+1. Code Reusability - Write once, use multiple times.
+2. Maintainability - Easier to debug and update.
+3. Organization - Keeps code structured.
+4. Namespace Management - Avoids naming conflicts by keeping code separate.
 
 
 Types of Modules in Python
@@ -23,6 +23,14 @@ Library is A collection of modules
 
 import tut_py_4_module_math_utils as utils
 
-print(utils.add(5, 3))        # Output: 8
-print(utils.subtract(10, 4))  # Output: 6
+res = utils.add(5, 3)
+print(f"add: {res}")        # Output: 8
+
+res = utils.subtract(10, 4)
+print(f"subtract: {res}")        # Output: 8
+
 print(utils.PI)               # Output: 3.14159
+print(utils.EULER)               
+
+res = utils.fibonacci(6)
+print(f"fibonacci: {res}")        
