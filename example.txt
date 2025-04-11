@@ -1,0 +1,4 @@
+Hello, World!
+Python is great
+But homework is torturee
+Appending new line!
