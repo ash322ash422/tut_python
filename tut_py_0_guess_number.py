@@ -11,7 +11,7 @@ while True:
         print("Invalid input! Please enter a number.")
         continue
 
-    guess = int(user_input)
+    guess = int(user_input) # convert str to int
 
     if guess < 1 or guess > 10:
         print("Please guess a number between 1 and 10.")
@@ -19,7 +19,7 @@ while True:
 
     if guess == secret_number:
         print("Congratulations! You guessed it right!")
-        break
+        break # exit the loop
     elif guess < secret_number:
         print("Too low! Try guessing higher.")
     else:
