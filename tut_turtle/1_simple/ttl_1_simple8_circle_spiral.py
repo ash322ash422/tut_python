@@ -75,7 +75,7 @@ screen.setup(800, 600)   # Set screen size to 800x600 pixels
 
 # Set up the turtle
 t = turtle.Turtle()
-t.speed(0)              # Fastest speed for drawing
+t.speed(20)              # Fastest speed for drawing
 t.pencolor("green")     # Set pen color to green
 
 # Draw one spiral with three rounds
