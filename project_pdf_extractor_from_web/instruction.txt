@@ -1,0 +1,9 @@
+Project: Design a python code that goes to website www.somewebsite.com and downloads a PDF document, then extracts the text content of it and stores it in separates text file
+
+
+step1: write a python code that download the pdf
+
+step2: write a python code that reads the pdf and saves the text in a separate text file
+
+
+

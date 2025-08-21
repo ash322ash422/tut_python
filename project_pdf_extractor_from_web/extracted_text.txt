@@ -1,0 +1,3121 @@
+--- Page 1 ---
+1ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+1 1742887937 Dr.Jayeeta ChandaDr Pratap Chandra 
+MandalB. P. PODDAR INSTITUTE OF 
+MANAGEMENT & TECHNOLOGYWEST BENGALNORTH 24 
+PARGANASEastern / 
+KOLKATA700052Green 
+TechnologyGreen IoT with AI for Sustainable Growth of the 
+SocietyBasic Offline 6 6/15/2025 6/20/2025
+2 1740813200Dr.K H 
+SHAKTHI 
+MURUGANDr B Malakonda 
+ReddyNARAYANA ENGINEERING COLLEGEANDHRA 
+PRADESHNELLORESouth-Central / 
+GUDURU524101Artificial 
+Intelligence & 
+ApplicationsRecent Advancements and Challenges in 
+Applications of Artificial Intelligence in VLSIBasic Offline 6 6/15/2025 6/20/2025
+3 1742886633 Dr.amit gupta Gurramapally KumarJB INSTITUTE OF ENGINEERING AND 
+TECHNOLOGYTELANGANA HYDERABADSouth-Central / 
+MOINABAD500075Machine 
+LearningMACHINE LEARNING AND GENERATIVE 
+AI TECHNIQUES FOR HEALTH CARE 
+INNOV ATIONBasic Offline 6 6/15/2025 6/20/2025
+4 1741692351 Dr.Suresh AkkoleDr Veena 
+PuranikmathS. S. E. T'S  S. G. BALEKUNDRI 
+INSTITUTE OF TECHNOLOGYKARNATAKA BELGAUMSouth-West / 
+BELGAUM590010Internet of 
+Things (IoT)Advanced embedded systems using IOT Basic Offline 6 6/15/2025 6/20/2025
+5 1743167748 Dr.Megha Trivedi Dr Tatwadarshi P NVIDYA V ARDHINI'S COLLEGE OF 
+ENGINEERING AND TECHNOLOGYMAHARASHTRA THANE Western / V ASAI 401202Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)GenAI and Agentic AI: The Future of Intelligent 
+SystemsBasic Offline 6 6/15/2025 6/20/2025
+6 1741529729 Dr.Balamurugan K SivakumarKARPAGA VINAYAGA COLLEGE OF 
+ENGINEERING AND TECHNOLOGYTAMIL NADU KANCHIPURAMSouthern / 
+CHENNAI603308Artificial 
+Intelligence & 
+ApplicationsArtificial Intelligence in Engineering:  
+Innovations and ApplicationsBasic Offline 6 6/15/2025 6/20/2025
+7 1743055088 Dr.Seeema Jagtap Prashant NarayaneTHAKUR COLLEGE OF ENGINEERING 
+& TECHNOLOGYMAHARASHTRAMUMBAI 
+SUBURBANWestern / 
+MUMBAI400101Green 
+TechnologyGreen Technology and Sustainability Basic Offline 6 6/15/2025 6/20/2025
+8 1743156196Dr.SIV AKUMAR 
+SVIGNESH VA.K.T.MEMORIAL COLLEGE OF 
+ENGINEERING & TECHNOLOGYTAMIL NADU VILUPPURAMSouthern / 
+KALLAKURICHI606202Advanced 
+MaterialsADV ANCED MATERIALS IN DEFENCE 
+AND AEROSPACE: SECURING THE 
+FUTUREBasic Offline 6 6/15/2025 6/20/2025
+9 1741584395Dr.Syed Azam 
+Pasha QuadriSamatham MadhukarLORDS INSTITUTE OF ENGINEERING 
+AND TECHNOLOGYTELANGANA HYDERABADSouth-Central / 
+HYDERABAD5000083D Printing and 
+DesignSustainable Additive Manufacturing in Medical 
+Applications: UN SDG PerspectivesBasic Offline 6 6/15/2025 6/20/2025
+10 1740836328Dr.VINOTH 
+KUMAR KDr K Karthick R.M.K. ENGINEERING COLLEGE TAMIL NADU THIRUV ALLURSouthern / 
+KA V ARAIPETTAI601206Additive 
+Manufacturing 
+in Medical 
+ApplicationThe Future of Medical Innovation with Additive 
+ManufacturingBasic Offline 6 6/15/2025 6/20/2025
+11 1742278566 Dr.Smita Pradhan Dr Arabinda PandaSRINIX COLLEGE OF ENGINEERING, 
+BALASOREODISHA BALASOREEastern / 
+BALASORE756001Artificial 
+Intelligence & 
+ApplicationsRole of AI: Data to Intelligence Basic Offline 6 6/15/2025 6/20/2025
+12 1741085704 Dr.Rachna Sable Bhagyashri WankarG.H.RAISONI COLLEGE OF 
+ENGINEERING & MANAGEMENTMAHARASHTRA PUNE Western / PUNE 412207Artificial 
+Intelligence & 
+ApplicationsGenerative AI & Human Augmentation: The 
+Future of WorkBasic Offline 6 6/15/2025 6/20/2025
+13 1741588006Mr.JUPUDI 
+V AMSIKRISHN
+AKOTHAPALLY 
+VINAY KUMARSAMSKRUTI COLLEGE OF 
+ENGINEERING AND TECHNOLOGYTELANGANA RANGAREDDISouth-Central / 
+HYDERABAD501301 SemiconductorsSemiconductor Technology: Advancing from 
+Fundamentals to Future InnovationsBasic Offline 6 6/15/2025 6/20/2025
+14 1742184751 Dr.CHANDRADr M 
+ESAKKIAMMALNATIONAL COLLEGE TAMIL NADUTIRUCHIRAPPAL
+LISouthern / 
+TIRUCHIRAPPAL
+LI620001Entrepreneurship 
+& Start-up 
+EcosystemsBridging Academia and Enterprise: FDP on 
+Startup Culture and InnovationBasic Offline 6 6/15/2025 6/20/2025
+15 1742972599 Dr.Anju Bala Rekha RaniSHRI SANATAN DHARAM GIRLS' 
+COLLEGEPUNJAB BATHINDANorth-West / 
+BATHINDA151001Entrepreneurship 
+& Start-up 
+EcosystemsFaculty Development  Program on  
+Entrepreneurship and  StartupsBasic Offline 6 6/15/2025 6/20/2025
+16 1743072362Dr.Devendra 
+Kumar TiwariNeha PandeyUNITED INSTITUTE OF 
+MANAGEMENT  'FACULTY OF 
+UNDERGRADUATE STUDIES'UTTAR 
+PRADESHALLAHABADNorthern / 
+ALLAHABAD211010Organizational 
+BehaviorFoundations and Emerging Trends in 
+Organizational BehaviorBasic Offline 6 6/15/2025 6/20/2025
+17 1742370449Dr.Vimal 
+ShanmuganathanSumathiSRI ESHWAR COLLEGE OF 
+ENGINEERINGTAMIL NADU COIMBATORESouthern / 
+COIMBATORE641202Artificial 
+Intelligence & 
+ApplicationsQuantum based Generative AI for Smart and 
+Sustainable Healthcare EcosystemBasic Offline 6 6/16/2025 6/21/2025
+18 1743749953 Dr.M Sivapragash PRAKASH J PNARAYANAGURU COLLEGE OF 
+ENGINEERINGTAMIL NADU KANYAKUMARISouthern / 
+KUZHITHURAI629151Advanced 
+MaterialsARTIFICIAL INTELLIGENCE FOR METAL 
+RESEARCH AND PROCESSINGBasic Offline 6 6/16/2025 6/21/2025
+
+
+--- Page 2 ---
+2ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+19 1743246391Dr.Kadbhane 
+Sharad JNemade Pravin DMARATHA VIDYA PRASARAK 
+SAMAJ'S KARMA VEER ADV . 
+BABURAO GANPATRAO THAKARE 
+COLLEGE OF ENGINEERINGMAHARASHTRA NASHIK Western / NASHIK 422013Environmental 
+GeotechnologyEnvironmental Geotechnology: Advances and 
+Sustainable PracticesBasic Offline 6 6/16/2025 6/21/2025
+20 1742697537Dr.Vijaya Kumar 
+ChodavarapuSatishreddy polaggari 
+DrKASIREDDY NARAYAN REDDY 
+COLLEGE OF ENGINEERING & 
+RESEARCHTELANGANA RANGAREDDISouth-Central / 
+HYDERABAD501505Artificial 
+Intelligence & 
+ApplicationsSupercomputing & AI for Research and 
+InnovationBasic Offline 6 6/16/2025 6/21/2025
+21 1743664375Dr.DIANA JEBA 
+JINGLE IDr Shiju GeorgeCHRIST DEEMED TO BE UNIVERSITY 
+KENGERI CAMPUSKARNATAKABANGALORE 
+URBANSouth-West / 
+HEBBAGODI560074Quantum 
+Computing & 
+TechnologyImpact of Quantum Computing and GenAI 
+towards AGIBasic Offline 6 6/16/2025 6/21/2025
+22 1740998650Dr.
+Thirunavukkarasu 
+IndiranDr Chinmay RajhansMANIPAL INSTITUTE OF 
+TECHNOLOGYKARNATAKA UDUPISouth-West / 
+MANIPAL576104Artificial 
+Intelligence & 
+ApplicationsMachine Learning for Advanced Process Control Basic Offline 6 6/16/2025 6/21/2025
+23 1743745256Dr.GANESH 
+KUMAR 
+WADHWANIMANZOOR 
+ANSARIINSTITUTE OF INFORMATION 
+TECHNOLOGY & MANAGEMENTDELHI WEST DELHINorth-West / NEW 
+DELHI110058Internet of 
+Things (IoT)The Future of Computing: Integrating Green AI, 
+IoT, and Federated LearningBasic Offline 6 6/16/2025 6/21/2025
+24 1743231350 Dr.Shruti K Dixit Kiran PachlasiyaSANJEEV AGRAWAL GLOBAL 
+EDUCATIONAL UNIVERSITYMADHYA 
+PRADESHBHOPAL Central / BHOPAL 462021 Industry 4.0/5.0Empowering Educators with AI & Industry 5.0: 
+Roadmap for Faculty Up-skillingBasic Offline 6 6/16/2025 6/21/2025
+25 1743140439Dr.BOOMIJA M 
+DANITHALAKSHMI 
+VPRATHYUSHA ENGINEERING 
+COLLEGETAMIL NADU THIRUV ALLURSouthern / 
+TIRUV ALLUR602025 Cyber SecurityAI for Cybersecurity: Fundamentals, 
+Applications, and Hands-on ImplementationBasic Offline 6 6/16/2025 6/21/2025
+26 1743231875Dr.Bhushan 
+Ashok JadhavMonica TolaniTHADOMAL SHAHANI ENGINEERING 
+COLLEGEMAHARASHTRAMUMBAI 
+SUBURBANWestern / 
+MUMBAI400050Artificial 
+Intelligence & 
+ApplicationsTransforming Indian Agriculture with 
+Multimodal Agentic AIBasic Offline 6 6/16/2025 6/21/2025
+27 1743072511 Dr.Shruti VashistBHANU PRATAP 
+CHAUDHARYMANA V RACHNA UNIVERSITY HARYANA FARIDABADNorth-West / 
+FARIDABAD1210015th Generation 
+Mobile 
+Networks5G and Beyond: Practical Approaches to Next-
+Gen Wireless CommunicationBasic Offline 6 6/16/2025 6/21/2025
+28 1744296818Dr.Poorna 
+Lakshmi UVidya Sagar PVIGNANA BHARATHI INSTITUTE OF 
+TECHNOLOGYTELANGANA RANGAREDDISouth-Central / 
+HYDERABAD501301 Lab on ChipRECENT TRENDS IN VLSI DESIGN AND 
+MODELING USING CADENCE TOOLSBasic Offline 6 6/16/2025 6/21/2025
+29 1743737652 Dr.G.Sundar Dr B TharaniSRI  SHAKTHI  INSTITUTE  OF  
+ENGINEERING  AND  TECHNOLOGYTAMIL NADU COIMBATORESouthern / 
+COIMBATORE641062Artificial 
+Intelligence & 
+ApplicationsIoT and AI for Sustainable EV Eco System Basic Offline 6 6/16/2025 6/21/2025
+30 1743483462 Dr.Dr Richa Jain Gunjan SharmaPRESTIGE INSTITUTE OF 
+MANAGEMENT AND RESEARCH, 
+BHOPALMADHYA 
+PRADESHBHOPAL Central / BHOPAL 462021Entrepreneurship 
+& Start-up 
+EcosystemsEntrepreneurship & Startups Education: Moving 
+Beyond Theories to Practical ApplicationBasic Offline 6 6/16/2025 6/21/2025
+31 1741762738 Dr.Sony George KAISER YOUNIS T.K.M INSTITUTE OF TECHNOLOGY KERALA KOLLAMSouth-West / 
+KOLLAM691505Kitchen:  Food 
+production, 
+nutrition and 
+dietetics, safety 
+& hygiene & 
+equipmentCulinary Innovation: Revolutionizing Food 
+Production, Nutrition, Safety, and Kitchen 
+TechnologyBasic Offline 6 6/16/2025 6/21/2025
+32 1743231495Mrs.Urvi Paras 
+UpadhyayVIJAY LALWANIPARUL INSTITUTE OF ENGINEERING 
+& TECHNOLOGY (DIPLOMA 
+STUDIES)GUJARAT V ADODARACentral / 
+V ADODARA391760 Industry 4.0/5.0 Shaping Infrastructure with Industry 5.0 Tech Basic Offline 6 6/16/2025 6/21/2025
+33 1743234174 Dr.Mukesh Rawat Pankaj SharmaMEERUT INSTITUTE OF 
+TECHNOLOGYUTTAR 
+PRADESHMEERUTNorthern / 
+MEERUT250103Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)Advances in Artifical Intelligence, Machine 
+Learning and Deep LearningBasic Offline 6 6/16/2025 6/21/2025
+34 1742901535Dr.ANKUR 
+GOELDr Ravindra KumarMEERUT INSTITUTE OF 
+TECHNOLOGYUTTAR 
+PRADESHMEERUTNorthern / 
+MEERUT250103Financial 
+ModellingEmerging Trends in Financial Modelling Basic Offline 6 6/16/2025 6/21/2025
+35 1743167264Dr.Suprina 
+SharmaDr Palki Sharma CHANDIGARH SCHOOL OF BUSINESS PUNJAB MOHALINorth-West / 
+JHANJERI140307Digital 
+MarketingHarnessing Digital Marketing for Industry 5.0 
+TransformationBasic Offline 6 6/16/2025 6/21/2025
+36 1744192028 Dr.SHOBHA LALABHINA V KUMAR 
+SRIV ASTA V ABUDDHA POLYTECHNIC COLLEGEUTTAR 
+PRADESHGORAKHPURNorthern / 
+SAHJANWA, 
+GIDA273209Artificial 
+IntelligenceROLE OF ARTIFICIAL INTELLIGENCE IN 
+TECHNICAL & PROFESSIONAL 
+EDUCATIONBasic Offline 6 6/16/2025 6/21/2025
+
+--- Page 3 ---
+3ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+37 1742798677Dr.Romsha 
+SharmaNayna Gaikwad CAREER COLLEGEMADHYA 
+PRADESHBHOPAL Central / BHOPAL 462023Artificial 
+Intelligence and 
+ApplicationsIntegration of Artificial intelligence and 
+Gamification for effective teaching learning 
+outcomesBasic Offline 6 6/16/2025 6/21/2025
+38 1742805599Dr.Venkatesh Raja 
+KKumaravel P SONA COLLEGE OF TECHNOLOGY TAMIL NADU SALEM Southern / SALEM 636005Simulation 
+TechniquesSimulation-Driven Engineering with Advanced 
+Modelling Techniques - Transforming 
+Engineering Challenges into OpportunitiesAdvanced Offline 12 6/18/2025 7/1/2025
+39 1741827305 Dr.Selvaperumal S Dr Rajesh KN.P.R COLLEGE OF ENGINEERING & 
+TECHNOLOGYTAMIL NADU DINDIGULSouthern / 
+NATHAM624401Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesAdvancements in Electric Vehicles & Hydrogen 
+Fuel Cell Technologies: Innovations, Challenges, 
+and Future TrendsBasic Offline 6 6/23/2025 6/28/2025
+40 1742982780Dr.Sachin 
+Madhavrao BhosleChittaranjan Birabar 
+NayakVIDYA PRATISHTHAN’S 
+KAMALNAYAN BAJAJ INSTITUTE OF 
+ENGINEERING & TECHNOLOGY , 
+BARAMATIMAHARASHTRA PUNEWestern / 
+BARAMATI413133Digital 
+Manufacturing 
+TechnologyBridging Academia and Industry: Future Skills in 
+Digital Manufacturing & AutomationBasic Offline 6 6/23/2025 6/28/2025
+41 1741664338Dr.RAJESH 
+DATTATRAYA 
+BHARATIDr Jameer Gulab 
+KotwalDR. D. Y . PATIL INSTITUTE OF 
+TECHNOLOGY .MAHARASHTRA PUNE Western / PIMPRI 411018Quantum 
+Computing & 
+TechnologyQuantum Computing and NextGen AI: 
+Pioneering Future of TechnologyBasic Offline 6 6/23/2025 6/28/2025
+42 1743232977Dr.KRISHNA 
+KUMAR SAiswariya RajFEDERAL INSTITUTE OF SCIENCE 
+AND TECHNOLOGY (FISAT)KERALA ERNAKULAMSouth-West / 
+ANGAMALY6835776th Generation 
+Mobile 
+NetworksInnovations in 5G and 6G: Advancing Intelligent 
+Wireless Communication SystemsBasic Offline 6 6/23/2025 6/28/2025
+43 1743058474 Dr.Manish T I Dhanya K ASCMS SCHOOL OF ENGINEERING & 
+TECHNOLOGYKERALA ERNAKULAMSouth-West / 
+COCHIN683582 Digital ForensicsDigital Forensics: Navigating the Future of 
+Cyber InvestigationBasic Offline 6 6/23/2025 6/28/2025
+44 1743134862Dr.M S HEA VEN 
+DANIDR V RAMASAMYVELAMMAL INSTITUTE OF 
+TECHNOLOGYTAMIL NADU THIRUV ALLURSouthern / 
+PANCHEETI601204 Industry 4.0/5.0Recent Technological Advancement & 
+Opportunities in Manufacturing Industries 5.0Basic Offline 6 6/23/2025 6/28/2025
+45 1742879536 Dr.Shantanu Dutta Dr Ranadip RoySANAKA EDUCATIONAL TRUST'S 
+GROUP OF INSTITUTIONSWEST BENGAL BARDHAMANEastern / 
+DURGAPUR713212Energy 
+EngineeringAdvancements in Energy Sustainability: 
+Research, Innovations, and Industrial 
+Applications"Basic Offline 6 6/23/2025 6/28/2025
+46 1741839142 Dr.A N Duraivel Dr  S Lekashri KINGS ENGINEERING COLLEGE TAMIL NADU KANCHIPURAMSouthern / 
+SRIPERUMBUDU
+R602117Nanotechnology, 
+Materials & 
+ScienceAI in the Development of Next-Generation 
+Semiconductor MaterialsBasic Offline 6 6/23/2025 6/28/2025
+47 1743063848Dr.
+KEERTHIPRASA
+D K SPRABODH SAI 
+DUTT RMAHARAJA INSTITUTE OF 
+TECHNOLOGY THANDA V APURAKARNATAKA MYSORESouth-West / 
+NANJANGUD571302 AutomotiveCutting-Edge FEM Techniques for Automotive 
+EngineeringBasic Offline 6 6/23/2025 6/28/2025
+48 1743834159 Dr.NAFEESA K Mr Karthick VMES COLLEGE OF ENGINEERING, 
+KUTTIPURAMKERALA MALAPPURAMSouth-West / 
+KUTTIPURAM679573Energy 
+EngineeringEmerging Trends in Renewable Energy Systems: 
+A MATLAB -Based Simulation FDPBasic Offline 6 6/23/2025 6/28/2025
+49 1743224651Dr.Dr T 
+MANVEL RAJDR C GOPINATHST.JOSEPH COLLEGE OF 
+ENGINEERINGTAMIL NADU KANCHIPURAMSouthern / 
+CHENNAI6021053D Printing and 
+DesignConcept to Creation: Mastering 3D Printing and 
+Additive Manufacturing DesignBasic Offline 6 6/23/2025 6/28/2025
+50 1740975863 Dr.Apurva Mehta Jatayu Baxi DHARMSINH DESAI UNIVERSITY GUJARAT KHEDA Central / NADIAD 387001Artificial 
+Intelligence & 
+ApplicationsArtificial Intelligence for Language and Life: 
+NLP Meets Computational BiologyBasic Offline 6 6/23/2025 6/28/2025
+51 1741843959 Dr.Ashok Kumar Rini SaxenaCHANDIGARH ENGINEERING 
+COLLEGE JHANJERIPUNJAB MOHALINorth-West / 
+JHANJERI140307 Data Sciences Data Analytics using R Basic Offline 6 6/23/2025 6/28/2025
+52 1743226441Dr.
+ANANDAKUMA
+R SN Nazia AmreenMEENAKSHI COLLEGE OF 
+ENGINEERINGTAMIL NADU CHENNAISouthern / 
+CHENNAI600078Sustainability 
+EngineeringA recent trends on Sustainable practices of Water 
+management and soil conservationBasic Offline 6 6/23/2025 6/28/2025
+53 1742359174Dr.Ravikumar 
+palanisamyDr A KarthikAKSHAYA COLLEGE OF 
+ENGINEERING AND TECHNOLOGYTAMIL NADU COIMBATORESouthern / 
+COIMBATORE6421093D Printing and 
+DesignShaping the Future of Production with 3D 
+Printing and Additive TechniquesBasic Offline 6 6/23/2025 6/28/2025
+54 1743528063Dr.BEJOY 
+ABRAHAMBoby PhilipAPJ ABDUL KALAM 
+TECHNOLOGICAL UNIVERSITYKERALATHIRUV ANANT
+HAPURAMSouth-West / 
+THIRUV ANANTH
+APURAM695016Nanotechnology, 
+Materials & 
+ScienceBiomimetics & Nanotribology of Nanomaterials 
+and Rare-Earth Minerals for SustainableBasic Offline 6 6/23/2025 6/28/2025
+55 1741409013Dr.Ankan 
+BhattacharyaSubhojit MalikHOOGHLY ENGINEERING & 
+TECHNOLOGY COLLEGEWEST BENGAL HOOGHLYEastern / 
+CHINSURAH712103Antenna & RF 
+DesignsMicrowave Devices for Communication and 
+Control in Industry 6.0: Enabling the IoT 
+RevolutionBasic Offline 6 6/23/2025 6/28/2025
+
+--- Page 4 ---
+4ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+56 1742360710 Dr.Anita S DurairajST. ANNE'S COLLEGE OF 
+ENGINEERING AND TECHNOLOGYTAMIL NADU CUDDALORESouthern / 
+PANRUTI607110Antenna & RF 
+DesignsDesign and Performance Optimization of Next-
+Generation Antennas for 5G/6G Communication 
+SystemsBasic Offline 6 6/23/2025 6/28/2025
+57 1743667474Dr.Dhowmya 
+BhattDr Rolly GuptaSRM INSTITUTE OF MANAGEMENT 
+AND TECHNOLOGYUTTAR 
+PRADESHGHAZIABADNorthern / 
+MODINAGAR201204Artificial 
+Intelligence & 
+ApplicationsArtificial Intelligence & Applications Basic Offline 6 6/23/2025 6/28/2025
+58 1741842324Dr.Ganesh 
+Nandkishor 
+JorvekarDr Vaibhav ParjaneSANJIV ANI K.B.P.POLYTECHNIC,
+KOPARGAONMAHARASHTRA AHMEDNAGARWestern / 
+KOPARGAON423603Cloud 
+TechnologyMastering Cloud Computing: Applications and 
+Deployment StrategiesBasic Offline 6 6/23/2025 6/28/2025
+59 1743755390 Mr.Darshan P R Roopa D SPES INSTITUTE OF ADV ANCED 
+MANAGEMENT STUDIESKARNATAKA SHIMOGASouth-West / 
+SHIMOGA577204Artificial 
+Intelligence and 
+ApplicationsFUTURE OF DESIGN THINKING: NEXT 
+WA VEBasic Offline 6 6/23/2025 6/28/2025
+60 1742211628Dr.NIKITHA 
+SREEKANTHADr RevanayyaDAYANANDA SAGAR BUSINESS 
+ACADEMYKARNATAKABANGALORE 
+URBANSouth-West / 
+BANGALORE560082Intellectual 
+Property RightsIntellectual Property Rights (IPR) & 
+Entrepreneurship: Building Sustainable Business 
+Models through InnovationBasic Offline 6 6/23/2025 6/28/2025
+61 1743613457Dr.Srabani 
+KarmakarNilotpal Manna KINGSTON POLYTECHNIC COLLEGE WEST BENGAL KOLKATAEastern / 
+BARASAT700126 Industry 4.0/5.0Advancements and Innovations in Industry 5.0 
+with a focus to Entrepreneurship and Start up 
+EcosystemBasic Offline 6 6/23/2025 6/28/2025
+62 1742964131 Dr.Geeti Sharma Dr Shalini AggarwalINSTITUTE OF PROFESSIONAL 
+EXCELLENCE & MANAGEMENTUTTAR 
+PRADESHGHAZIABADNorthern / 
+GHAZIABAD201010Engineering 
+ManagementRevolutionizing Multidisciplinary Academia 
+with Advanced AI: Innovation, Application and 
+Future FrontiersBasic Offline 6 6/23/2025 6/28/2025
+63 1742456985Dr.Girish Ashok 
+BodhankarDr Harshada RautINSTITUTE OF MANAGEMENT & 
+CAREER COURSESMAHARASHTRA PUNE Western / PUNE 411029Design Thinking 
+& InnovationUnlocking Industrial Growth through Design 
+Thinking A Framework for InnovationAdvanced Offline 12 6/23/2025 7/5/2025
+64 1743148880Dr.ALAPATI 
+BABJIMr M ManikantaGODA V ARI INSTITUTE OF 
+ENGINEERING & TECHNOLOGYANDHRA 
+PRADESHEAST 
+GODA V ARISouth-Central / 
+RAJAHMUNDRY533296 Alternate FuelsPerformance of an Internal Combustion Engine 
+using alternate fuels and CFD analysisBasic Offline 6 6/23/2025 6/28/2025
+65 1743681262Dr.Satish Kumar 
+JainAshwin ShrivastavaSHRI G.S.INSTITUTE OF TECH. & 
+SCIENCEMADHYA 
+PRADESHINDORE Central / INDORE 452003Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesIn-house EMI (Electromagnetic Interference) 
+EMC (Electromagnetic Compatibility) Testing in 
+Electronics and Electric Vehicle (EV)  
+[IEETEEV2025]Basic Offline 6 6/30/2025 7/5/2025
+66 1742972674 Dr.Sukumar Roy Dr Madhulina SarkarGOVT. COLLEGE OF ENGINEERING 
+AND TEXTILE TECHNOLOGY , 
+BERHAMPOREWEST BENGAL MURSHIDABADEastern / 
+BERHAMPORE742101Artificial 
+Intelligence & 
+ApplicationsArtificial Intelligence & Statistical  Techniques 
+in Textile ManufacturingBasic Offline 6 6/30/2025 7/5/2025
+67 1743936959Dr.ARUN 
+SADANAND 
+TIGADIDr Rudrappa 
+GujanattiKLE DR. M. S. SHESHGIRI COLLEGE 
+OF ENGINEERING AND 
+TECHNOLOGY , BELGAUMKARNATAKA BELGAUMSouth-West / 
+BELGAUM590008Artificial 
+Intelligence & 
+ApplicationsApplications of Artificial Intelligence in 
+Intelligent Transport SystemsBasic Offline 6 6/30/2025 7/5/2025
+68 1742894778Dr.Preetinder 
+KaurDr AshanandCHANDIGARH COLLEGE OF 
+ENGINEERINGPUNJAB S.A.S NAGARNorth-West / 
+MOHALI140307Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesEV olve: Next-Gen Electric Mobility Basic Offline 6 6/30/2025 7/5/2025
+69 1740816906Dr.Jyoti Ramdas 
+RokdeVijaykumarAMRUTV AHINI COLLEGE OF 
+ENGINEERING, SANGAMNERMAHARASHTRA AHMEDNAGARWestern / 
+SANGAMNER422608Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesEffective application of optimization techniques 
+for Electric VehicleBasic Offline 6 6/30/2025 7/5/2025
+70 1740813594Dr.
+BALASUBRAM
+ANIAM SMuthusankar 
+EswaranKERALA UNIVERSITY OF DIGITAL 
+SCIENCES INNOV ATION AND 
+TECHNOLOGYKERALATHIRUV ANANT
+HAPURAMSouth-West / 
+MANGALAPURA
+M695317Cloud 
+TechnologyNext Generation Healthcare with Cloud 
+Computing and IoTBasic Offline 6 6/30/2025 7/5/2025
+71 1742884010 Dr.NITIN TYAGI Sunil RajoriyaSUBHARTI INSTITUTE OF 
+TECHNOLOGY AND ENGINEERINGUTTAR 
+PRADESHMEERUTNorthern / 
+MEERUT250005Artificial 
+Intelligence & 
+ApplicationsOne week Faculty Development Program (FDP) 
+on Advanced Emerging Technologies: 
+Applications and Future ProspectsBasic Offline 6 6/30/2025 7/5/2025
+72 1742270304 Dr.Sachin Kumar Ankur UtsavGALGOTIAS COLLEGE OF 
+ENGINEERING & TECHNOLOGYUTTAR 
+PRADESHGAUTAM 
+BUDDHA 
+NAGARNorthern / 
+GREATER NOIDA201306Antenna & RF 
+DesignsAntenna Engineering for Next-Gen Healthcare 
+TechnologiesBasic Offline 6 6/30/2025 7/5/2025
+73 1742292587 Dr.jeyashanthi Jothilakshmi K SETHU INSTITUTE OF TECHNOLOGY TAMIL NADUVIRUDHUNAGA
+RSouthern / 
+VIRUDHUNAGA
+R626115Machine 
+LearningLeveraging Machine learning techniques for 
+sustainable and reliable performance in Electric 
+Mobility SystemsBasic Offline 6 6/30/2025 7/5/2025
+
+--- Page 5 ---
+5ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+74 1742964162Dr.Ganesh 
+GollavelliSwetha ThokalaAURORA HIGHER EDUCATION AND 
+RESEARCH ACADEMY (DEEMED-TO-
+BE-UNIVERSITY) UPPAL CAMPUSTELANGANA RANGAREDDISouth-Central / 
+HYDERABAD500098Green 
+TechnologyEmerging Trends in Green Energy for a 
+Sustainable FutureBasic Offline 6 6/30/2025 7/5/2025
+75 1742893071 Dr.Milind Nemade Dr Sheetal JagtapK J SOMAIYA INSTITUTE OF 
+TECHNOLOGYMAHARASHTRA MUMBAI CITYWestern / 
+MUMBAI400022 Cyber SecurityFortifying the Digital Frontier: Cybersecurity 
+Strategies for Threat LandscapesBasic Offline 6 6/30/2025 7/5/2025
+76 1742897609 Dr.Alok Sharma Gaurav KumarMERI COLLEGE OF ENGINEERING 
+AND TECHNOLOGYHARYANA JHAJJARNorth-West / 
+BAHADURGARH124501Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)super computing and Quantum computing Basic Offline 6 6/30/2025 7/5/2025
+77 1743419981Dr.Dr Sushma 
+BahugunaArnima PathakTECNIA INSTITUTE OF ADV ANCED 
+STUDIESDELHINORTH WEST 
+DELHINorth-West / 
+DELHI110085 Cyber SecurityCyber Security and Sustainability in Cloud 
+Computing and IoTBasic Offline 6 6/30/2025 7/5/2025
+78 1742459797Dr.SUNDARAM 
+B PANDYAANIL 
+LAXMANBHAI 
+PARMARSHRI K.J.POLYTECHNIC, BHARUCH GUJARAT BHARUCHCentral / 
+BHARUCH392002Green 
+TechnologyRecent Trends in Green Energy and Smart Power 
+GridsBasic Offline 6 6/30/2025 7/5/2025
+79 1743583519Dr.Karimisetty 
+SujathaMrs Mortha SharmilaDADI INSTITUTE OF ENGINEERING & 
+TECHNOLOGY (DIET)ANDHRA 
+PRADESHVISHAKHAPATN
+AMSouth-Central / 
+ANAKAPALLE531002 Design ThinkingEmpowering Innovators with Progressive Design 
+Thinking ApproachBasic Offline 6 6/30/2025 7/5/2025
+80 1743742426Dr.Ashwini 
+KumarDr Anup KumarARKA JAIN UNIVERSITY 
+JHARKHANDJHARKHANDSAREIKELA AND 
+KHARSAWANEastern / 
+GAMHARIA832108 Industry 4.0/5.0Experiential Learning towards Advanced 
+Concepts in Industry 4.0 for Sustainable GrowthBasic Offline 6 7/7/2025 7/12/2025
+81 1742541093Dr.MAHENDRA 
+SHARMASuman Rani IIMT COLLEGE OF ENGINEERINGUTTAR 
+PRADESHGAUTAM 
+BUDDHA 
+NAGARNorthern / 
+GREATER NOIDA201306Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)Real-World Applications of Cloud-AI Integration 
+in Industry 4.0Basic Offline 6 7/7/2025 7/12/2025
+82 1742290904Dr.Irshad Ahmad 
+KhanMr Rakesh YadavIES INSTITUTE OF TECHNOLOGY 
+AND MANAGEMENTMADHYA 
+PRADESHBHOPAL Central / BHOPAL 4620443D Printing and 
+DesignInnovations in 3D Printing and Design: Bridging 
+Creativity and TechnologyBasic Offline 6 7/7/2025 7/12/2025
+83 1743678937Dr.Soney C 
+GeorgeDr Surej Rajan CAMAL JYOTHI COLLEGE OF 
+ENGINEERINGKERALA KOTTAYAMSouth-West / 
+KOTTAYAM686518Advanced 
+MaterialsInnovative and Smart materials towards 
+Sustainability (An AI-driven approach)Basic Offline 6 7/7/2025 7/12/2025
+84 1743220714 Dr.Ramani S T SwapnaSREENIDHI INSTITUTE OF SCIENCE & 
+TECHNOLOGYTELANGANA RANGAREDDISouth-Central / 
+HYDERABAD501301Internet of 
+Things (IoT)IOT Applications Powered by AI Basic Offline 6 7/7/2025 7/12/2025
+85 1744185793Dr.Basant Kumar 
+SahuDr Ashwini Kumar 
+NayakNIST UNIVERSITY ODISHA GANJAMEastern / 
+BERHAMPUR761008 RoboticsManufacturing & Industry 4.0: Robotic 
+Applications using Artificial IntelligenceBasic Offline 6 7/7/2025 7/12/2025
+86 1743693172Dr.ARMSTRONG 
+JOSEPH JPRINCELY L P A J.P. COLLEGE OF ENGINEERING TAMIL NADU TIRUNELVELISouthern / 
+TENKASI627852Artificial 
+Intelligence & 
+ApplicationsNext-Gen AI: Innovations and Generative 
+ModelsBasic Offline 6 7/7/2025 7/12/2025
+87 1741076148Dr.Ravindra 
+Madhukar MoharilPranay Sadashiv 
+SheteYESHWANTRAO CHA V AN COLLEGE 
+OF ENGINEERINGMAHARASHTRA NAGPURWestern / 
+NAGPUR441110 Energy StorageEvaluation of Renewable Energy Storage System 
+on Stability and Reliability of DC Microgrid.Basic Offline 6 7/7/2025 7/12/2025
+88 1743069312Dr.DR. 
+NIRBHAY 
+CHAUBEYDr Chandrakantbhai 
+D PatelACHARYA MOTIBHAI PATEL 
+INSTITUTE OF COMPUTER STUDIESGUJARAT MEHSANA Central / KHERV A 382711 Cyber SecurityEmerging Cyber Security Techniques for 
+Building Resilient Network InfrastructureBasic Offline 6 7/7/2025 7/12/2025
+89 1743688776Dr.MOHAMED 
+ABBAS SMAGESH B PERI INSTITUTE OF TECHNOLOGY TAMIL NADU KANCHIPURAMSouthern / 
+CHENNAI CITY600048 Industry 4.0/5.0Multidisciplinary Applications of artificial 
+intelligence, IOT, and robotics Integration with 
+Industry 5.0Basic Offline 6 7/7/2025 7/12/2025
+90 1743142077Dr.HIREN 
+ARVINDBHAI 
+SHAHDr Paresh Babubhai 
+GujaratiCHHOTUBHAI GOPALBHAI PATEL 
+INSTITUTE OF TECHNOLOGYGUJARAT SURATCentral / 
+BARDOLI394350Sustainability 
+EngineeringRECENT ADV ANCES IN ENERGY 
+SYSTEMS FOR SUSTAINABLE 
+DEVELOPMENTBasic Offline 6 7/7/2025 7/12/2025
+91 1743062320Dr.
+MADHUSUDHA
+NA REDDY 
+BARUSUSUPRAJA 
+VEERABOMMAG.PULLAIAH COLLEGE OF 
+ENGINEERING AND TECHNOLOGYANDHRA 
+PRADESHKURNOOLSouth-Central / 
+KURNOOL518002 Industry 4.0/5.0INDUSTRY 5.0 – HUMAN AND ROBOT 
+COLLABORATION FOR A SUSTAINABLE 
+AND PERSONALIZED FUTUREBasic Offline 6 7/7/2025 7/12/2025
+92 1743138591Dr.Jayson K 
+JayabarathanD ElavarasiMOUNT ZION COLLEGE OF 
+ENGINEERING AND TECHNOLOGYTAMIL NADU PUDUKKOTTAISouthern / 
+PUDUKKOTTAI622507Machine 
+LearningDefensive AI: Machine Learning in Cyber 
+SecurityBasic Offline 6 7/7/2025 7/12/2025
+
+--- Page 6 ---
+6ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+93 1743054776 Mrs.S KA VITHA MSRAJANIKANTHSHRI GNANAMBICA DEGREE 
+COLLEGEANDHRA 
+PRADESHCHITTOORSouth-Central / 
+MADANAPALLE517325Artificial 
+Intelligence and 
+ApplicationsThe Transformative Role of AI in Urban 
+Development, Healthcare Advancements, and 
+Emerging IndustriesBasic Offline 6 7/7/2025 7/12/2025
+94 1740914795Dr.Manoj Kumar 
+PG SwaminathanPSG INSTITUTE OF TECHNOLOGY 
+AND APPLIED RESEARCHTAMIL NADU COIMBATORE Southern / SULUR 641062Energy 
+EngineeringHydrogen Technologies : Synergistic Approach 
+towards Sustainable Energy SolutionsBasic Offline 6 7/7/2025 7/12/2025
+95 1741528636 Dr.Kailash Patidar Dr Shital GuptaBANSAL INSTITUTE OF SCIENCE 
+AND TECHNOLOGYMADHYA 
+PRADESHBHOPAL Central / BHOPAL 462021Artificial 
+Intelligence & 
+ApplicationsCyber-Physical Systems and Digital Arrest: 
+Using Threat Intelligence and Forensics to 
+Secure Smart InfrastructureBasic Offline 6 7/7/2025 7/12/2025
+96 1742555303 Dr.Abhisha Mano C Pratheeba DMI ENGINEERING COLLEGE TAMIL NADU KANYAKUMARISouthern / 
+ARALV AIMOZHI629301Artificial 
+Intelligence & 
+ApplicationsAI  FOR EDGE COMPUTING IN IOT 
+DEVICESBasic Offline 6 7/7/2025 7/12/2025
+97 1740990318Dr.T V RAJINI 
+KANTHMrs J SreedeviMAHATMA GANDHI INSTITUTE OF 
+TECHNOLOGYTELANGANA RANGAREDDISouth-Central / 
+HYDERABAD500075Quantum 
+Computing & 
+TechnologyQuantum Computing: Foundations and 
+ApplicationsBasic Offline 6 7/7/2025 7/12/2025
+98 1741853855Mrs.Swati 
+Swapnil PatilMr Pravin Gajanan 
+PatilKASEGAON EDUCATION SOCIETYS 
+RAJARAMBAPU INSTITUTE OF 
+TECHNOLOGYMAHARASHTRA SANGLIWestern / 
+ISLAMPUR415414 Electric VehiclesDesign and Challenges of Electric Vehicles and 
+Energy Storage SystemsBasic Offline 6 7/7/2025 7/12/2025
+99 1742193654Dr.J GANESH 
+KUMARDr A 
+SENTHILRAJANMOHAMED SATHAK POLYTECHIC 
+COLLEGETAMIL NADURAMANATHAPU
+RAMSouthern / 
+KILAKARAI623806Waste 
+Management 
+Technologywastemanagement:  Innovations and 
+implementationsBasic Offline 6 7/7/2025 7/12/2025
+100 1743220390Dr.Rajpreet Singh 
+ChhatwalDr PrashantPUNJAB COLLEGE OF TECHNICAL 
+EDUCATION JHANDEPUNJAB LUDHIANANorth-West / 
+LUDHIANA142021Travel and 
+Tourism 
+ManagementTourism and Hospitality Education: Global 
+Issues and TrendsBasic Offline 6 7/7/2025 7/12/2025
+101 1743843864Dr.Archana 
+SharmaRitu Gulia DELHI TECHNICAL CAMPUSUTTAR 
+PRADESHGAUTAM 
+BUDDHA 
+NAGARNorthern / 
+GREATER NOIDA201306Data Mining and 
+AnalyticsAdvancements in Data Mining and Analytics for 
+Decision MakingBasic Offline 6 7/7/2025 7/12/2025
+102 1743072613Dr.Mausumi 
+AdhyaDr Uttara BasuSUPREME INSTITUTE OF 
+MANAGEMENT AND TECHNOLOGYWEST BENGAL HOOGHLYEastern / 
+CHANDANNAGA
+R712139Engineering 
+ManagementAI for Healthcare Excellence: Innovations, 
+Challenges and Future TrendsBasic Offline 6 7/7/2025 7/12/2025
+103 1743512930Dr.Sandesh 
+Kumar JainSurajkumar HumbeCENTRAL INSTITUTE OF 
+PETROCHEMICALS ENGINEERING & 
+TECHNOLOGYMADHYA 
+PRADESHBHOPAL Central / BHOPAL 4620233D Printing and 
+DesignProduct Design & Prototype Development using 
+3D PrintingBasic Offline 6 7/7/2025 7/12/2025
+104 1743673535Dr.Dr. J. B. 
+VeeramaliniDr A Saravana RajVEL TECH HIGH TECH DR.
+RANGARAJAN DR.SAKUNTHALA 
+ENGINEERING COLLEGETAMIL NADU THIRUV ALLUR Southern / MORAI 600062Sustainable 
+Development 
+GoalsEnvironmental Impact Assessment for attaining 
+Sustainable Development GoalsAdvanced Offline 12 7/14/2025 7/26/2025
+105 1744214922Dr.Sanjeevakumar 
+M HattureDr Ramesh M 
+KagalkarNAGARJUNA COLLEGE OF 
+ENGINEERING AND TECHNOLOGYKARNATAKABANGALORE 
+RURALSouth-West / 
+BENGALURU562110Engineering 
+ManagementMentoring Faculty Entrepreneurs for Sustainable 
+Innovation and Startup CultureBasic Offline 6 7/14/2025 7/19/2025
+106 1743140094 Dr.Anojkumar LDr M M 
+MatheshwaranJANSONS INSTITUTE OF 
+TECHNOLOGYTAMIL NADU COIMBATORESouthern / 
+COIMBATORE641659Sustainability 
+EngineeringEnergy Efficiency and Sustainable Practices: 
+Advancing Green Technologies with Solar 
+Thermal SystemsBasic Offline 6 7/14/2025 7/19/2025
+107 1742894161 Dr.V Ramasamy Dr P SomiyadeviADHIPARASAKTHI ENGINEERING 
+COLLEGETAMIL NADU KANCHIPURAMSouthern / 
+MELMARUV ATH
+UR603319Concrete 
+TechnologyRECENT TRENDS AND INNOV ATIONS IN 
+CONCRETE TECHNOLOGYBasic Offline 6 7/14/2025 7/19/2025
+108 1742893199Dr.
+PRASHANTHA 
+SJDr Vishwanath B RRAJEEV INSTITUTE OF 
+TECHNOLOGYKARNATAKA HASSANSouth-West / 
+HASSAN573201Artificial 
+Intelligence & 
+ApplicationsAI-DRIVEN MEDICAL IMAGE FUSION 
+ANALYSIS AND DISEASE PREDICTION IN 
+HEALTHCAREBasic Offline 6 7/14/2025 7/19/2025
+109 1743677870Mrs.RENUGA 
+DEVI KDHILIP MER. PERUMAL MANIMEKALAI 
+POLYTECHNIC COLLEGETAMIL NADU KRISHNAGIRISouthern / 
+NALLAGANAKO
+THAPALLI635117Sustainability 
+EngineeringGREEN PROCESS AND SUSTAINABLE 
+MANUFACTURINGBasic Offline 6 7/14/2025 7/19/2025
+110 1741156306Dr.Rajeev Ranjan 
+PathakKIran R Patil KLE TECHNOLOGICAL UNIVERSITY KARNATAKA DHARWADSouth-West / 
+HUBLI580031Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesEmerging Trends, Recent Advancements, and 
+Key Challenges in Electric Vehicles (EVs)and its 
+applications.Basic Offline 6 7/14/2025 7/19/2025
+
+--- Page 7 ---
+7ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+111 1742727106 Dr.Sunil Mishra Sapna DabadeINSTITUTE OF ENGINEERING AND 
+TECHNOLOGYMADHYA 
+PRADESHINDORE Central / INDORE 452020Advanced 
+MaterialsAdvancements in Smart and Sustainable 
+Materials: Characterization, Applications, and 
+Future ProspectsAdvanced Offline 12 7/14/2025 7/26/2025
+112 1743228037 Dr.K SrinivasaraoDr Veeravalli 
+Venkata RaoNARASARAOPETA ENGINEERING 
+COLLEGEANDHRA 
+PRADESHGUNTURSouth-Central / 
+NARASARAOPET5226016th Generation 
+Mobile 
+NetworksEmerging Technologies in Wireless 
+CommunicationsBasic Offline 6 7/14/2025 7/19/2025
+113 1741685734Dr.Dr R 
+SanthoskumarDr M VadivukarassiST MARTIN'S ENGINEERING 
+COLLEGETELANGANA RANGAREDDISouth-Central / 
+SECUNDERABAD500014Zero Trust 
+TechnologyThe ‘Zero Trust’ Technology  in Cybersecurity Basic Offline 6 7/14/2025 7/19/2025
+114 1741172216 Dr.Ajai SinghDr Shikha 
+ChourasiyaCENTRAL UNIVERSITY OF 
+JHARKHANDJHARKHAND RANCHI Eastern / RANCHI 835205Sustainability 
+EngineeringSustainability Engineering Concepts and 
+ApproachesBasic Offline 6 7/14/2025 7/19/2025
+115 1741846941Dr.Dr Ummar 
+pasha ShaikDevathi VNV Laxmi 
+AlekhyaANURAG ENGINEERING COLLEGE TELANGANA NALGONDASouth-Central / 
+KODAD 
+(MANDAL)508206Concrete 
+TechnologyNext-Generation Concrete Technology Utilizing 
+Nanomaterials for the Development of Strong 
+and Smart InfrastructureBasic Offline 6 7/14/2025 7/19/2025
+116 1742284681 Dr.SURENDRAN Dr B Selvalakshmi TAGORE ENGINEERING COLLEGE TAMIL NADU KANCHIPURAMSouthern / 
+CHENNAI600127 Cyber SecurityDigital Forensics role in Cyber Crime 
+InvestigationBasic Offline 6 7/14/2025 7/19/2025
+117 1741841608 Dr.GANESH S GAYATHRI P GRACE COLLEGE OF ENGINEERING TAMIL NADU THOOTHUKUDISouthern / 
+MULLAKKADU628005 Smart CitiesAI POWERED CYBER SECURITY FOR 
+SMART CITIES AND INDUSTRIAL 
+CONTROL SYSTEMBasic Offline 6 7/14/2025 7/19/2025
+118 1742649072 Dr.Vinaya Sawant Monika ManglaSHRI VILE PARLE KELA V ANI 
+MANDAL'S DWARKADAS J. SANGHVI 
+COLLEGE OF ENGINEERINGMAHARASHTRAMUMBAI 
+SUBURBANWestern / 
+MUMBAI400056Artificial 
+Intelligence & 
+ApplicationsEthical and Responsible AI: Harnessing XAI for 
+India's Economic FutureBasic Offline 6 7/14/2025 7/19/2025
+119 1741061840Dr.NA VNEET 
+KAURDr Ritu ShrivastavaSAGAR INSTITUTE OF RESEARCH & 
+TECHNOLOGYMADHYA 
+PRADESHBHOPAL Central / BHOPAL 462041Artificial 
+Intelligence & 
+ApplicationsAI- Powered Real Time Fraud detection in 
+Financial TransactionsBasic Offline 6 7/14/2025 7/19/2025
+120 1743136676Dr.
+MANIKANDAN 
+MANIDr R RameshJYOTHISHMATHI INSTITUTE OF 
+TECHNOLOGY & SCIENCETELANGANA KARIMNAGARSouth-Central / 
+KARIMNAGAR505481Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesFaculty Development Program on Autonomous 
+& Connected ElectricBasic Offline 6 7/14/2025 7/19/2025
+121 1743656969 Dr.Venkatesh S Sarath Kumar KDHIRAJLAL GANDHI COLLEGE OF 
+TECHNOLOGYTAMIL NADU SALEM Southern / SALEM 636309Antenna & RF 
+DesignsNext Gen Antenna Technologies: Advances in 
+5G/6G Wireless Communication NetworksBasic Offline 6 7/14/2025 7/19/2025
+122 1743576667Dr.Sridaran 
+RajagopalRipal Ranpara MARWADI UNIVERSITY GUJARA T RAJKOT Central / RAJKOT 360003 Cyber SecurityCybersecurity for a Sustainable Digital Future: 
+Research, Challenges, and InnovationsBasic Offline 6 7/14/2025 7/19/2025
+123 1740824543Dr.PERSIS 
+VOOLADR G KEERTI 
+MARITAADIKA VI NANNAYA UNIVERSITYANDHRA 
+PRADESHEAST 
+GODA V ARISouth-Central / 
+RAJAHMUNDRY533296Quantum 
+Computing & 
+TechnologyQUANTUM TECHNOLOGIES: 
+OPPORTUNITIES AND THREATSBasic Offline 6 7/14/2025 7/19/2025
+124 1743696953Dr.SHEEJA V 
+FRANCIST TAMILSELVIJERUSALEM COLLEGE OF 
+ENGINEERINGTAMIL NADU CHENNAISouthern / 
+CHENNAI600100 Design ThinkingAccreditation, Ranking, and NEP: Strategies for 
+Academic ExcellenceBasic Offline 6 7/14/2025 7/19/2025
+125 1743156462Dr.Mahantesh C 
+ElemmiDr Raghu NandanRNA VKIS COLLEGE OF ENGINEERING, 
+HASSANKARNATAKA HASSANSouth-West / 
+HASSAN573217Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)AI and Data Science Tools for Future Generation 
+LearningAdvanced Offline 12 7/14/2025 7/26/2025
+126 1742628309Dr.Jaseena 
+IbrahimDr A SudhakaranSAHYA ARTS AND SCIENCE 
+COLLEGEKERALA MALAPPURAMSouth-West / 
+WANDOOR679339Entrepreneurship 
+& Start-up 
+EcosystemsEntrepreneurship & Start-up Ecosystems Basic Offline 6 7/14/2025 7/19/2025
+127 1742805611Dr.SONI 
+CHANGLANIANOOP KUMAR 
+CHATURVEDILAKSHMI NARAIN COLLEGE OF 
+TECHNOLOGYMADHYA 
+PRADESHBHOPAL Central / BHOPAL 462002Artificial 
+Intelligence & 
+ApplicationsAI in Healthcare & Biomedical Imaging Advanced Offline 12 7/14/2025 7/26/2025
+128 1743485850Dr.Premanand 
+Edward 
+MalyakkalManu AntonyST JOSEPH'S COLLEGE 
+AUTONOMOUS DEV AGIRIKERALA KOZHIKODESouth-West / 
+KOZHIKODE673008Strategic 
+PlanningLEADING WITH INSIGHTS: LEVERAGING 
+DATA, ANALYTICS AND AI FOR 
+STRATEGIC MANAGEMENTBasic Offline 6 7/14/2025 7/19/2025
+129 1743759316 Dr.Radhamani K Dr Kavitha VP.K.R. ARTS COLLEGE FOR WOMEN 
+(MBA)TAMIL NADU ERODESouthern / 
+GOBICHETTIPAL
+AYAM638476Financial 
+ModellingFinancial Insights through Forecasting and 
+ReportingBasic Offline 6 7/14/2025 7/19/2025
+
+--- Page 8 ---
+8ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+130 1743854009Mr.Mitesh Kumar 
+ChaudharyPriyanka TiwariPARISHKAR COLLEGE OF GLOBAL 
+EXCELLENCERAJASTHAN JAIPURNorth-West / 
+JAIPUR302020Cloud 
+TechnologyCloud Computing and Security Essentials Basic Offline 6 7/14/2025 7/19/2025
+131 1743144352 Dr.Mugesh P Nisha SasikumarAMC GROUP OF EDUCATIONAL 
+INSTITUTIONSKERALA PALAKKADSouth-West / 
+OTTAPPALAM679521Entrepreneurship 
+& Start-up 
+EcosystemsFostering Entrepreneurial Mindset: Building a 
+Sustainable Startup EcosystemBasic Offline 6 7/14/2025 7/19/2025
+132 1743164528 Dr.Alok SahuDr Diwesh Babruwan 
+MeshramCENTRAL INSTITUTE OF 
+PETROCHEMICALS ENGINEERING & 
+TECHNOLOGY (CIPET), RAIPURCHHATTISGARH RAIPUR Central / RAIPUR 493221 Industry 4.0/5.0Interactive Product Development through Smart 
+ManufacturingBasic Offline 6 7/21/2025 7/26/2025
+133 1742891637 Dr.Sathish Kumar Dr E KrishnahariHOLY MARY INSTITUTE OF 
+TECHNOLOGY & SCIENCETELANGANA RANGAREDDISouth-Central / 
+BOGARAM501301Waste 
+Management 
+Technology & 
+ApplicationsSmart Waste Management: Applications of IoT, 
+AI, and Data Analytics for Sustainable Waste 
+SolutionsBasic Offline 6 7/21/2025 7/26/2025
+134 1742358562Dr.Premanand 
+Singh ChauhanNishant Singh 
+KushwahVIKRANT UNIVERSITY (SCHOOL OF 
+ENGINEERING) GWALIORMADHYA 
+PRADESHGWALIORCentral / 
+GWALIOR474005 Industry 4.0/5.0Industry 5.0: Human-Centric Smart 
+ManufacturingBasic Offline 6 7/21/2025 7/26/2025
+135 1742886440Dr.Satheesh 
+Kumar NDr M V KamalMALLA REDDY COLLEGE OF 
+ENGINEERING & TECHNOLOGYTELANGANA RANGAREDDISouth-Central / 
+SECUNDERABAD500014 Cyber SecurityADAPTIVE ARTIFICIAL INTELLIGENCE 
+FOR CYBER SECURITY: FROM ANOMALY 
+DETECTION TO THREAT MITIGATIONBasic Offline 6 7/21/2025 7/26/2025
+136 1743742496Dr.Dr NANDINI 
+PRASAD K SDr Vanajaroselin 
+ChirchiDAYANANDA SAGAR ACADEMY OF 
+TECHNOLOGY & MANAGEMENT 
+TECHNICAL CAMPUSKARNATAKABANGALORE 
+URBANSouth-West / 
+BANGALORE560082Artificial 
+Intelligence & 
+ApplicationsAdvancements in Quantum Generative AI :Its 
+Applications and Future ProspectsBasic Offline 6 7/21/2025 7/26/2025
+137 1742280615Dr.ARUMUGA 
+BABUD CitharthanCHRIST THE KING ENGINEERING 
+COLLEGETAMIL NADU COIMBATORESouthern / 
+KARAMADAI641104Artificial 
+Intelligence & 
+ApplicationsAI-Driven Predictive Maintenance Solutions for 
+Industry 4.0: From Analytics to DeploymentBasic Offline 6 7/21/2025 7/26/2025
+138 1743674378 Dr.Dr C S Yadav Sarika WaliaBANARSIDAS CHANDIWALA 
+INSTITUTE OF PROFESSIONAL 
+STUDIESDELHINORTH WEST 
+DELHINorth-West / NEW 
+DELHI110075Design Thinking 
+& InnovationAI Infused Design thinking: Crafting the next 
+wave of InnovationBasic Offline 6 7/21/2025 7/26/2025
+139 1742902973Dr.MARSALINE 
+BENOJ LEON BOSCO 
+RAJST. XA VIER'S CATHOLIC COLLEGE 
+OF ENGINEERINGTAMIL NADU KANYAKUMARISouthern / 
+NAGERCOIL629003Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesElectric Vehicles & Hydrogen Fuel Cell 
+Vehicles: Technologies, Challenges, and Future 
+ProspectsBasic Offline 6 7/21/2025 7/26/2025
+140 1742894694Dr.DrG Nazia 
+sulthanaRakesh SAKSHAYA INSTITUTE OF 
+TECHNOLOGYKARNATAKA TUMKURSouth-West / 
+TUMKUR572106 Cyber SecurityCyber Security for the digital age: Protecting data 
+and privacyBasic Offline 6 7/21/2025 7/26/2025
+141 1740823125Dr.SOURA V 
+KAYALDr Sanjib Kundu ACADEMY OF TECHNOLOGY WEST BENGAL HOOGHLYEastern / 
+HOOGHLY712121Digital 
+Manufacturing 
+TechnologyDigital Transformation in Manufacturing: 
+Enhancing Efficiency and InnovationBasic Offline 6 7/21/2025 7/26/2025
+142 1742014635 Dr.Tamilarasi.K Dr K Mohanaprakash EXCEL ENGINEERING COLLEGE TAMIL NADU NAMAKKALSouthern / 
+PALLAKAPALAY
+AM637303Next Gen 
+CommunicationsArtificial Intelligence and Ultra Wideband 
+Technology in 6G Communication : Use CasesBasic Offline 6 7/21/2025 7/26/2025
+143 1743486273 Dr.Amrita Priyam Mahua Banerjee BIRLA INSTITUTE OF TECHNOLOGY JHARKHAND RANCHI Eastern / RANCHI 835215Artificial 
+Intelligence & 
+ApplicationsEmerging Trends for Digital Business 
+TransformationBasic Offline 6 7/21/2025 7/26/2025
+144 1743063360 Dr.Sajithra Varun Dr Shanthala P T T JOHN INSTITUTE OF TECHNOLOGY KARNATAKABANGALORE 
+URBANSouth-West / 
+BANGALORE560083Quantum 
+Computing & 
+Technology"Quantum Synergy:Exploring Advanced 
+Applications of Quantum Sensors and 
+Computing"Basic Offline 6 7/21/2025 7/26/2025
+145 1741865918Dr.Kalameshwar 
+N PatilDr Sidddalingesh S 
+NavalgundS.D.M. COLLEGE OF ENGINEERING & 
+TECHNOLOGYKARNATAKA DHARWADSouth-West / 
+DHARWAD580002 Smart Cities Smart Cities and Mobility Basic Offline 6 7/21/2025 7/26/2025
+146 1741059575 Dr.S.Srividhya Dr Saritha Chakrasali BNM INSTITUTE OF TECHNOLOGY KARNATAKABANGALORE 
+URBANSouth-West / 
+BANGALORE560070Artificial 
+Intelligence & 
+ApplicationsNext-Gen Transportation: Artificial Intelligence 
+For Self Driving Cars in Association with 
+BOSCH  Global Software TechnologiesBasic Offline 6 7/21/2025 7/26/2025
+147 1743493449Dr.SWARUPA 
+PALLETIDr Sarath Simha 
+BhattaruKONERU LAKSHMAIAH EDUCATION 
+FOUNDATION DEEMED TO BE 
+UNIVERSITY OFF CAMPUS 
+BOWRAMPET HYDERABADTELANGANA RANGAREDDISouth-Central / 
+BOWRAMPET500043 GamificationGAMIFICATION IN HR:  A NEW ERA OF 
+MOTIV ATION  AND PRODUCTIVITBasic Offline 6 7/21/2025 7/26/2025
+
+--- Page 9 ---
+9ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+148 1741684817 Dr.Madhu Arora Dr Shubham AgarwalNEW DELHI INSTITUTE OF 
+MANAGEMENT. DELHIDELHI SOUTH DELHINorth-West / 
+DELHI110062Digital 
+MarketingExplore AI, Automation and emerging 
+technologies shaping digital marketing in 2025Basic Offline 6 7/21/2025 7/26/2025
+149 1741600241Mrs.PRIYANGA 
+K KPriyanga K K CHRIST COLLEGE IRINJALAKUDA KERALA THRISSURSouth-West / 
+IRINJALAKUDA680125Artificial 
+Intelligence and 
+ApplicationsIntegrating AI into Academia: One-week FDP on 
+Advancements in AIBasic Offline 6 7/21/2025 7/26/2025
+150 1743565443Mrs.Vidyashree H 
+RAruna CNAGARJUNA COLLEGE OF 
+MANAGEMENT STUDIESKARNATAKACHIKABALLAPU
+RSouth-West / 
+CHICKBALLAPU
+R562101 Data SciencesTransformative Data Science in Education and 
+Research: A Hands-on Approach for FacultyBasic Offline 6 7/21/2025 7/26/2025
+151 1742895441Dr.POTTETI 
+SUMALATHADr P DeepthiBHOJ REDDY ENGINEERING 
+COLLEGE FOR WOMENTELANGANA HYDERABADSouth-Central / 
+HYDERABAD500059Artificial 
+Intelligence & 
+ApplicationsGenerative AI and Large Language Models: 
+Innovations for the Future of Education and 
+ResearchBasic Offline 6 7/28/2025 8/2/2025
+152 1742886717 Dr.S Yuvaraj J V ASANTHIPRINCE DR. K. V ASUDEV AN 
+COLLEGE OF ENGINEERING AND 
+TECHNOLOGYTAMIL NADU KANCHIPURAMSouthern / 
+VILLAGE6001276th Generation 
+Mobile 
+NetworksFUTURE OF CONNECTIVITY: EXPLORING 
+THE NEXT GEN COMMUNICATION 
+TECHNOLOGIESBasic Offline 6 7/28/2025 8/2/2025
+153 1743744664Dr.AMARNATH 
+GAINIDr Vinod AMARRI LAXMAN REDDY INSTITUTE 
+OF TECHNOLOGY AND 
+MANAGEMENTTELANGANA RANGAREDDISouth-Central / 
+HYDERABAD500043 RoboticsAI & ML-Driven Robotics: Perception, Planning, 
+and Autonomous Control SystemBasic Offline 6 7/28/2025 8/2/2025
+154 1743056495Dr.Janak Balubhai 
+ValakiDivyeshkumar 
+Bhagvanbhai 
+MorabiyaGOVERNMENT ENGINEERING 
+COLLEGEGUJARAT BHA VNAGARCentral / 
+BHA VNAGAR364002Digital 
+Manufacturing 
+TechnologyDigital Manufacturing: A Way Forward to 
+Sustainable growth of IndiaBasic Offline 6 7/28/2025 8/2/2025
+155 1743676171 Dr.N Tajunisha Dr R KhanchanaSRI RAMAKRISHNA COLLEGE OF 
+ARTS AND SCIENCE FOR WOMENTAMIL NADU COIMBATORESouthern / 
+COIMBATORE641044 Data SciencesNext-Gen Data Science & AI for fostering 
+Employability & Research SkillsBasic Offline 6 7/28/2025 8/2/2025
+156 1743758517Dr.Sangita 
+NemadePallavi Vinayak 
+RajhansGOVERNMENT COLLEGE OF 
+ENGINEERING AND RESEARCHMAHARASHTRA PUNEWestern / 
+A V ASARI 
+(KHURD)412405Artificial 
+Intelligence & 
+ApplicationsFrom Fundamentals to Frontiers: A Deep Dive 
+into Artificial Intelligence and Its Societal ImpactBasic Offline 6 7/28/2025 8/2/2025
+157 1742991795 Dr.Ashutosh Kar Suparna DharNSHM COLLEGE OF MANAGEMENT 
+AND TECHNOLOGY KOLKATAWEST BENGAL KOLKATAEastern / 
+KOLKATA700053Data Mining and 
+AnalyticsData Insights Unlocked: FDP on Research 
+Methodology in Data Mining & AnalyticsBasic Offline 6 7/28/2025 8/2/2025
+158 1742398366 Dr.Sandip Paul Pradipta RoyDR. B. C. ROY ACADEMY OF 
+PROFESSIONAL COURSESWEST BENGAL BARDHAMANEastern / 
+DURGAPUR713206 Data SciencesApplications of Data Science: Enhancing 
+Teaching and ResearchBasic Offline 6 7/28/2025 8/2/2025
+159 1742399576 Dr.Swapan SantraPrithwish 
+BhattacharyaELITTE INSTITUTE OF ENGINEERING 
+AND MANAGEMENT (POLYTECHNIC)WEST BENGALNORTH 24 
+PARGANASEastern / 
+KOLKATA700113Internet of 
+Things (IoT)Emerging Trends in IoT: Developments and 
+ChallengesBasic Offline 6 7/28/2025 8/2/2025
+160 1741760989 Mrs.Saradha Dr S Devi NANDHA ENGINEERING COLLEGE TAMIL NADU ERODE Southern / ERODE 638052 Climate SciencesAUGMENTING THE RESEARCH 
+FRAMEWORK FOR CLIMATE CHANGES 
+AND CLASSIFICATION USING QUANTUM 
+SUPPORT VECTOR MACHINESBasic Offline 6 8/3/2025 8/9/2025
+161 1742892650Mr.THAMARAI 
+SELV AN BJAYARAJ KK S RANGASAMY INSTITUTE OF 
+TECHNOLOGYTAMIL NADU NAMAKKALSouthern / 
+TIRUCHENGODE637215 Electric VehiclesInnovations in EV Tech Paving the Way for a 
+Greener FutureBasic Offline 6 8/4/2025 8/9/2025
+162 1742637331Dr.M 
+UMAMAHESWA
+RIDR D RevathiDR. SNS RAJALSKHMI COLLEGE OF 
+ARTS & SCIENCETAMIL NADU COIMBATORESouthern / 
+COIMBATORE641049 Design ThinkingAI Disruptions: Strategies to enhance Human 
+Inquisitiveness Innovation and CreativityBasic Offline 6 8/4/2025 8/9/2025
+163 1743231395Dr.Dr G Hari 
+PriyaDr D kasimbi GATES INSTITUTE OF TECHNOLOGYANDHRA 
+PRADESHANANTAPURSouth-Central / 
+GOOTY5154016th Generation 
+Mobile 
+NetworksRecent Advances in Biodegradable Polymers for 
+Sustainable Applications”Basic Offline 6 8/4/2025 8/9/2025
+164 1743055421 Dr.vishesh singhal Dr Akash Doomra SARASWATI GROUP OF COLLEGES PUNJAB S.A.S NAGARNorth-West / 
+MOHALI140413Artificial 
+Intelligence & 
+ApplicationsAI and health Sector Basic Offline 6 8/4/2025 8/9/2025
+165 1741596378Dr.Dr.P.
+PERIASAMYDr V RohiniNEHRU INSTITUTE OF ENGINEERING 
+AND TECHNOLOGYTAMIL NADU COIMBATORESouthern / 
+COIMBATORE641105Advanced 
+Functional 
+MaterialsAdvanced Multifunctional Nanomaterials for a 
+Sustainable Future: Innovations in Energy, 
+Environment, and HealthcareBasic Offline 6 8/4/2025 8/9/2025
+166 1744084639Dr.Deepak  
+BhardwajAwdhesh Kumar 
+PoddarDR. AKHILESH DAS GUPTA 
+INSTITUTE OF PROFESSIONAL 
+STUDIESDELHINORTH WEST 
+DELHINorth-West / NEW 
+DELHI110053Artificial 
+Intelligence & 
+ApplicationsEmpowering Mechanical Innovation through the 
+Intelligence of AIBasic Offline 6 8/4/2025 8/9/2025
+
+--- Page 10 ---
+10ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+167 1740999028Dr.Mahesh 
+kamalakar 
+BhiwapurkarDr Saroj KumarSCHOOL OF ENGINEERING OP 
+JINDAL UNIVERSITYCHHATTISGARH RAIGARHCentral / 
+PUNJIPATHRA496109Robotic Process 
+AutomationThe Role of Robotics & AI in Industry 4.0 Basic Offline 6 8/4/2025 8/9/2025
+168 1742364257Mr.Sunil Sudhakar 
+SonawaneMrs Rohini 
+Balkrishna GuravALL INDIA SHRI SHIV AJI MEMORIAL 
+SOCIETYS POLYTECHNICMAHARASHTRA PUNE Western / PUNE 411001Artificial 
+IntelligenceGenerative AI Basic Offline 6 8/4/2025 8/9/2025
+169 1741414767Dr.VINOTH 
+KUMAR DDr T 
+THILAGA V ATHIBISHOP HEBER COLLEGE TAMIL NADUTIRUCHIRAPPAL
+LISouthern / 
+TIRUCHIRAPPAL
+LI620017Entrepreneurship 
+& Start-up 
+EcosystemsEmpowering Next-Gen Entrepreneurs with 
+Sustainability and ESG ValuesBasic Offline 6 8/4/2025 8/9/2025
+170 1743136895Dr.Deepika 
+SharmaDalwinder KumarSWAMI PREMANAND 
+MAHA VIDYALAYAPUNJAB HOSHIARPURNorth-West / 
+MUKERIAN144211Intellectual 
+Property RightsStrengthening IPR Awareness and Application in 
+AcademiaBasic Offline 6 8/4/2025 8/9/2025
+171 1741942300 Dr.R MANI V MANIMARANMUTHAYAMMAL POLYTECHNIC 
+INSTITUTIONTAMIL NADU NAMAKKALSouthern / 
+KAKKA VERI637408 Electric VehiclesSUSTAINABILIY & ECO-FRIENDLY 
+MANUFACTURING IN E- VEHICLEBasic Offline 6 8/4/2025 8/9/2025
+172 1743154428Dr.CHANDAN 
+KUMAR GHOSHDR ARNAB 
+CHATTERJEEDR. B. C. ROY POLYTECHNIC WEST BENGAL BARDHAMANEastern / 
+DURGAPUR713206Cloud 
+TechnologyCloudEd: Navigating the Digital Sky Basic Offline 6 8/4/2025 8/9/2025
+173 1743151055Dr.Deepshikha  
+KalraDr Arkin ChawlaMANAGEMENT EDUCATION AND 
+RESEARCH INSTITUTEDELHI WEST DELHINorth-West / NEW 
+DELHI110058Film and Video 
+CommunicationInnovative Studio Techniques in Film and Video 
+CommunicationBasic Offline 6 8/4/2025 8/9/2025
+174 1741667805Dr.Dr Bhramara 
+Bar BiswalDr Raghvendra 
+KumarGIET UNIVERSITY ODISHA RAYAGADAEastern / 
+GUNUPUR765022Quantum 
+TechnologiesQuantum Technologies for Sustainable and 
+National DevelopmentBasic Offline 6 8/11/2025 8/16/2025
+175 1741838607Dr.MANASH 
+CHANDASwapnadip DeMEGHNAD SAHA INSTITUTE OF 
+TECHNOLOGYWEST BENGAL KOLKATAEastern / 
+KOLKATA700150Nanotechnology, 
+Materials & 
+ScienceNext-Generation Semiconductor Sensing: 
+Integrating Nanotechnology and MaterialsBasic Offline 6 8/18/2025 8/23/2025
+176 1743062349Dr.Dr Kavitha 
+MuthukumaranTheerthaanaSRI SIV ASUBRMANIYA NADAR 
+COLLEGE OF ENGINEERINGTAMIL NADU KANCHIPURAMSouthern / 
+KALA V AKKAM603110Behavioral 
+FinanceBehavioural Finaance and Modelling - 
+Modelling: Integrating Psychology and Data for 
+Smarter Financial DecisionsBasic Offline 6 8/18/2025 8/23/2025
+177 1743525806Dr.Chaitanya 
+SharmaOm prakash B I T SINDRI JHARKHAND DHANBAD Eastern / SINDRI 8281233D Printing and 
+DesignMetal Additive Manufacturing and Industry 4.0: 
+Tools, Techniques, and PropertiesBasic Offline 6 8/18/2025 8/23/2025
+178 1742891287 Dr.Gaurav Saini Prof Athar HussainNETAJI SUBHAS UNIVERSITY OF 
+TECHNOLOGY WEST CAMPUSDELHISOUTH WEST 
+DELHINorth-West / 
+DELHI110073Artificial 
+Intelligence & 
+ApplicationsEmerging Trends in Water and Wastewater 
+Management through Artificial Intelligence and 
+Machine learningBasic Offline 6 8/18/2025 8/23/2025
+179 1744268007Dr.SHRI 
+HARSHA JRoopa MMYSURU ROYAL INSTITUTE OF 
+TECHNOLOGYKARNATAKA MANDYASouth-West / 
+SHRIRANGAPAT
+TANA571438Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesRecent Trends and Technologies in Electric 
+VehiclesBasic Offline 6 8/18/2025 8/23/2025
+180 1740802610Dr.GONTHINA 
+MADHURIVENKAT LUTEGAYATRI VIDYA PARISHAD 
+COLLEGE OF ENGINEERINGANDHRA 
+PRADESHVISHAKHAPATN
+AMSouth-Central / 
+VISAKHAPATNA
+M530048Artificial 
+Intelligence & 
+ApplicationsArtificial Intelligence in Civil Engineering: 
+Trends, Applications, and Future ProspectsBasic Offline 6 8/18/2025 8/23/2025
+181 1742883135Dr.T 
+DhanalakshmiPriya XavierKUTTUKARAN POLYTECHNIC 
+COLLEGE, NORTH PARA VURKERALA ERNAKULAMSouth-West / 
+PARA VUR6835113D Printing and 
+DesignEngineering and Technical  dynamics of 3 D 
+printingBasic Offline 6 8/18/2025 8/23/2025
+182 1742634840Dr.K K 
+SenthilkumarMs D Little Femilin 
+JanaPRINCE SHRI VENKATESHWARA 
+PADMA V ATHY ENGINERING 
+COLLEGETAMIL NADU KANCHIPURAMSouthern / 
+PONMAR600127Intellectual 
+Property RightsIPR and Technology Commercialization Basic Offline 6 8/18/2025 8/23/2025
+183 1743239964Dr.Anubhuti 
+BauskarDr Preeti Singh 
+ChouhanSUSHILA DEVI BANSAL COLLEGE OF 
+TECHNOLOGYMADHYA 
+PRADESHINDORE Central / INDORE 453331Supply Chain 
+Management & 
+ResilienceSupply Chain Resilience: Strategies for 
+Turbulent TimesBasic Offline 6 8/18/2025 8/23/2025
+184 1741888650 Dr.Jyoti MetanDr K S Ananda 
+KumarATRIA INSTITUTE OF TECHNOLOGY KARNATAKABANGALORE 
+URBANSouth-West / 
+BANGALORE560024Artificial 
+Intelligence & 
+ApplicationsExploring Generative AI: Models, Applications, 
+and InnovationsBasic Offline 6 8/18/2025 8/23/2025
+185 1742890681 Dr.DINESH T R Nandhakumar JNN INSTITUTE OF ENGINEERING TAMIL NADU THIRUV ALLURSouthern / 
+TIRUV ALLUR601102Robotic Process 
+AutomationAutonomous Robotics and IoT: Transforming 
+Smart Manufacturing in Industry 4.0Basic Offline 6 8/18/2025 8/23/2025
+186 1744278552Dr.Govind 
+MaheshwariDr Roopesh TiwariINSTITUTE OF ENGINEERING & 
+TECHNOLOGYMADHYA 
+PRADESHINDORE Central / INDORE 452017 Energy StorageRenewable Energy Storage: Research, 
+Applications and Integration of Advanced 
+ElectronicsBasic Offline 6 8/18/2025 8/23/2025
+
+--- Page 11 ---
+11ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+187 1742878723 Dr.Usha M Dr V Sathyavathy KG COLLEGE OF ARTS AND SCIENCE TAMIL NADU COIMBATORESouthern / 
+COIMBATORE641035Artificial 
+Intelligence and 
+ApplicationsExplainable AI :  Bridging the Gap between AI 
+and Human UnderstandingBasic Offline 6 8/18/2025 8/23/2025
+188 1742362795 Dr.Mohan Das Mr Vinod Kumar SNEW HORIZON COLLEGE OF 
+ENGINEERING (E&T)KARNATAKABANGALORE 
+URBANSouth-West / 
+BANGALORE560103 Digital TwinDIGITAL TWIN TECHNOLOGY AND ITS 
+ROLE IN INDUSTRIAL AUTOMATIONBasic Offline 6 8/18/2025 8/23/2025
+189 1743157632Mr.Dhaval 
+Arvindbhai JadhavDR ANKIT DILIP 
+PATELVIDYABHARTI TRUST COLLEGE OF 
+MASTER IN COMPUTER 
+APPLICATIONGUJARAT SURATCentral / 
+BARDOLI394345Artificial 
+Intelligence & 
+ApplicationsAI-Powered Future: Enhancing Teaching, 
+Research and InnovationBasic Offline 6 8/18/2025 8/23/2025
+190 1743240118Dr.Sanjay 
+Laxmikant 
+HaridasSupriya SawwashereJ D COLLEGE OF ENGINEERING AND 
+MANAGEMENTMAHARASHTRA NAGPURWestern / 
+NAGPUR441501 Data SciencesClimate and Environmental Data Analytics for 
+Sustainable DevelopmentBasic Offline 6 8/18/2025 8/23/2025
+191 1742294288Dr.Pallabi 
+MukherjeeDr Ritu MishraIPS ACADEMY , INSTITUTE OF 
+BUSINESS MANAGEMENT AND 
+RESEARCH, INDORE, (M.P.)MADHYA 
+PRADESHINDORE Central / INDORE 452011Entrepreneurship 
+& Start-up 
+EcosystemsPromoting Entrepreneurship and Advancing the 
+Startup Ecosystem within Academia: 
+Empowering EducatorsBasic Offline 6 8/18/2025 8/23/2025
+192 1742885715 Dr.V ANITHA P Dr S RamasamyK.S RANGASAMY COLLEGE OF ARTS 
+AND SCIENCETAMIL NADU NAMAKKALSouthern / 
+TIRUCHENGODE637215Talent 
+ManagementBeyond the Blackboard: Harnessing Technology 
+for Engaging Learning ExperiencesBasic Offline 6 8/18/2025 8/23/2025
+193 1742890420Dr.Akkalakshmi 
+MuddanaKakali DasGANDHI INSTITUTE OF 
+TECHNOLOGY AND MANAGEMENT 
+GITAM OFF CAMPUS HYDERABADTELANGANA MEDAKSouth-Central / 
+PATANCHERU502329Artificial 
+Intelligence & 
+ApplicationsDeepfake Threats and Generative Adversarial 
+Networks (GANs) in Cybersecurity: Detection, 
+Prevention, and Ethical ChallengesAdvanced Offline 12 8/18/2025 8/30/2025
+194 1742553746 Mr.Dr Raju ChitlaBHARANI 
+MAROJUGOVERNMENT POLYTECHNICANDHRA 
+PRADESHVISHAKHAPATN
+AMSouth-Central / 
+VISAKHAPATNA
+M530007 Design Thinking Numerical Approach in Design Thinking Basic Offline 6 8/18/2025 8/23/2025
+195 1743495026Mr.Navnath 
+Madhavrao 
+GhogareHaridas Madhukar 
+KakadKARMA VEER KAKASAHEB WAGH 
+POLYTECHNIC, NASHIKMAHARASHTRA NASHIK Western / NASHIK 422003 Electric Vehicles Electric Vehicle Technology Basic Offline 6 8/18/2025 8/23/2025
+196 1743126473 Dr.Hemalatha NDr Ravindra Swami 
+KST ALOYSIUS DEEMED TO BE 
+UNIVERSITYKARNATAKADAKSHINA 
+KANNADASouth-West / 
+MANGALORE575003Artificial 
+Intelligence and 
+Applications“TechHarvest: Advancing Computer Science & 
+Agricultural Research for a Sustainable 
+Agriculture”Basic Offline 6 8/18/2025 8/23/2025
+197 1742021598Dr.Chandrajit 
+MohanArvind G MIT FIRST GRADE COLLEGE KARNATAKA MYSORESouth-West / 
+MYSORE570008Artificial 
+Intelligence and 
+ApplicationsAI Innovation: Advanced Technique and 
+PracticalBasic Offline 6 8/18/2025 8/23/2025
+198 1742797327 Dr.Arvind ShelarSnehal Dhananjay 
+SarnotMAHARSHI KARVE STREE 
+SHIKSHAN SAMSTHA'S SHRI 
+SIDDHIVINAYAK MAHILA 
+MAHA VIDYALAYAMAHARASHTRA PUNE Western / PUNE 411052Organizational 
+BehaviorAICTE (ATAL) ACADEMY  FDP ON 
+"ORGANIZATIONAL BEHA VIOR"Basic Offline 6 8/18/2025 8/23/2025
+199 1743150643 Dr.Sivabalan P J PhilipsACADEMY OF MARITIME 
+EDUCATION AND TRAINING 
+DEEMED TO BE UNIVERSITYTAMIL NADU KANCHIPURAMSouthern / 
+CHENNAI603112 Alternate FuelsAdvancing Energy Solutions for a Sustainable 
+FutureBasic Of fline 6 8/18/2025 8/23/2025
+200 1740995374 Dr.Vijayapriya R Dr G VenugopalKONGU ARTS AND SCIENCE 
+COLLEGE - MBATAMIL NADU ERODE Southern / ERODE 638107Entrepreneurship 
+& Start-up 
+EcosystemsAI-Embedded Precision Farming in Agritech and 
+Digital Farming SolutionsBasic Offline 6 8/25/2025 8/30/2025
+201 1743663162Dr.TALARI 
+CHINNA 
+PAMULETYDr D RA VIKANTH K.S.R.M. COLLEGE OF ENGINEERINGANDHRA 
+PRADESHYSR DISTRICTSouth-Central / 
+KADAPA516003Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesRecent Advancements in Electric vehicles Basic Offline 6 8/25/2025 8/30/2025
+202 1742057159Dr.V BASTIN 
+JEROMEDr S ARULDASS ST JOSEPH'S COLLEGE TAMIL NADUTIRUCHIRAPPAL
+LISouthern / 
+TRICHIRAPALLI620002Circular 
+EconomyCircular Economy in India: A Catalyst for 
+Sustainable Development and Achieving the 
+2030 AgendaBasic Offline 6 8/27/2025 9/2/2025
+203 1743574257Dr.Dr D 
+SivakumarDr C N RaviACADEMY OF MARITIME 
+EDUCATION AND TRAINING 
+DEEMED TO BE UNIVERSITYTAMIL NADU KANCHIPURAMSouthern / 
+CHENNAI603112Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)Recent Advances in IoT and AI for a Smarter 
+Future for Revolutionizing SocietyBasic Offline 6 9/1/2025 9/6/2025
+
+--- Page 12 ---
+12ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+204 1741689841Dr.Kamalakant 
+Laxman 
+BawankulePankajkumar 
+Sudhkarrao ThakreGOVERNMENT POLYTECHNIC 
+NAGPURMAHARASHTRA NAGPURWestern / 
+NAGPUR440001 Industry 4.0/5.0Unlocking the Future: The Power of Big Data 
+Analytics in Industry 5.0Basic Offline 6 9/1/2025 9/6/2025
+205 1741622899Dr.Navdeep 
+PrasharAnita SharmaSWAMI VIVEKANAND INSTITUTE OF 
+ENGG. & TECH.PUNJAB PATIALANorth-West / 
+BANUR140601 Lab on ChipVLSI Design Concepts and its Application for 
+Semiconductor industry with Hands on TrainingBasic Offline 6 9/1/2025 9/6/2025
+206 1744195118Mrs.Swarupa 
+ArjyaSumant Sekhar 
+MohantyGANDHI INSTITUTE OF EXCELLENT 
+TECHNOCRATSODISHA KHORDHAEastern / 
+BHUBANESWAR752054Artificial 
+Intelligence and 
+ApplicationsNext-Gen AI Techniques for Biomedical Data 
+InterpretationBasic Offline 6 9/1/2025 9/6/2025
+207 1743062076 Dr.A SHAREEF Dr B ElijabetthammaASHOKA WOMENS ENGINEERING 
+COLLEGEANDHRA 
+PRADESHKURNOOLSouth-Central / 
+KALLUR518218 Climate SciencesClimate Change and Its Impacts on Energy 
+Resources: A Quantitative Evaluation of 
+Sustainability and Resource ManagementBasic Offline 6 9/3/2025 9/9/2025
+208 1743155724Dr.Vilas Vijaya 
+KarjinniDr D M PatilSWVSM'S TATYASAHEB KORE 
+INSTITUTE OF ENGINEERING AND 
+TECHNOLOGYMAHARASHTRA KOLHAPURWestern / 
+WARANANAGAR416113Infrastructure 
+EngineeringState of the Art Transportation Geotechnics for 
+High-speed Rail and Road SystemsAdvanced Offline 12 9/8/2025 9/20/2025
+209 1742792347Mrs.Nilima 
+Kisanroa 
+ChaudhariYogesh Shivaji Kasar AMRUTV AHINI POLYTECHNIC MAHARASHTRA AHMEDNAGARWestern / 
+SANGAMNER422608Artificial 
+IntelligenceAI/ML and It’s Application Basic Offline 6 9/8/2025 9/13/2025
+210 1742886547 Dr.Gagandeep Manish KumarCHANDIGARH ENGINEERING 
+COLLEGE-CGC, LANDRAN, MOHALIPUNJAB MOHALINorth-West / 
+MOHALI140307Cloud 
+TechnologyRECENT TRENDS AND RESEARCH ON 
+CLOUD COMPUTING AND SERVICESBasic Offline 6 9/8/2025 9/13/2025
+211 1742134088 Dr.Meganathan PC SANDOU LOUIS 
+KICHORSRI VENKATESHWARAA COLLEGE 
+OF ENGINEERING & TECHNOLOGYPUDUCHERRY PUDUCHERRYSouthern / 
+VILLIANUR605102Sustainability 
+EngineeringGlobal Warming Prevalence for Climate-
+Friendly Energy ProductionBasic Offline 6 9/8/2025 9/13/2025
+212 1742457109 Dr.Inderjeet KaurDr SANTOSH 
+KUMAR 
+UPADHYAYAJAY KUMAR GARG ENGINEERING 
+COLLEGEUTTAR 
+PRADESHGHAZIABADNorthern / 
+GHAZIABAD201009Artificial 
+Intelligence & 
+ApplicationsGenerative AI for Holistic Healthcare: Smart 
+Analytics for Humans & CropsBasic Offline 6 9/8/2025 9/13/2025
+213 1743071259Dr.Neeta Dhusia 
+SharmaDr Anindita 
+AdhikarySIKKIM MANIPAL INSTITUTE OF 
+TECHNOLOGYSIKKIM EAST SIKKIMEastern / 
+RANGPO, 
+MAJITAR737136Artificial 
+Intelligence & 
+ApplicationsApplication of Generative AI in Contemporary 
+ManagementBasic Offline 6 9/8/2025 9/13/2025
+214 1742199108Dr.syed shahab 
+ahmeddevendra pratap 
+lokhandeySCHOOL OF HOTEL MANAGEMENT, 
+SRI SATYA  SAI  UNIVERSITY OF 
+TECHNOLOGY AND MEDICAL 
+SCIENCES,(SSSUTMS)MADHYA 
+PRADESHSEHORE Central / SEHORE 466001Catering: 
+Planning and 
+ManagementTechnological Up gradation in Hotel and catering 
+and laying strong foundation  for Hospitality and 
+Tourism sectorBasic Offline 6 9/8/2025 9/13/2025
+215 1742712195Dr.S 
+MANOHARANDr S SARA V ANAN SURYA ENGINEERING COLLEGE TAMIL NADU ERODE Southern / ERODE 638107Sustainable 
+Development 
+GoalsRural Renaissance: Harnessing Renewable 
+Energy for Sustainable Development of Our 
+CountryBasic Offline 6 9/8/2025 9/13/2025
+216 1743153663 Dr.R Sarala J I SheebaPUDUCHERRY TECHNOLOGICAL 
+UNIVERSITYPUDUCHERRY PUDUCHERRYSouthern / 
+PUDUCHERRY605014 Cyber SecurityDefending the Digital Frontier: Emerging Threats 
+and Trends in CybersecurityBasic Offline 6 9/8/2025 9/13/2025
+217 1742104380Dr.M 
+MEIGNANAMO
+ORTHYL RajamohanCHENDHURAN COLLEGE OF 
+ENGINEERING & TECHNOLOGYTAMIL NADU PUDUKKOTTAISouthern / 
+PUDUKKOTTAI622507Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesOne Week Faculty Development Program On 
+Electric Vehicles & Hydrogen Fuel Cells in 
+India: Opportunities, Challenges and FutureBasic Offline 6 9/8/2025 9/13/2025
+218 1742880408Dr.Bharti 
+Machhindra 
+ShindeAnuja Sanjay JapeSANJIV ANI RURAL EDUCATION 
+SOCIETY`S SANJIV ANI COLLEGE OF 
+ENGINEERINGMAHARASHTRA AHMEDNAGARWestern / 
+KOPARGAON423603Artificial 
+Intelligence & 
+ApplicationsApplication of AI and ML in Sustainable 
+Development GoalsBasic Offline 6 9/8/2025 9/13/2025
+219 1743754208Dr.Anurag 
+MudgalVima MaliPANDIT DEENDAYAL ENERGY 
+UNIVERSITYGUJARAT GANDHINAGARCentral / 
+GANDHINAGAR382007Waste 
+Management 
+Technology & 
+ApplicationsInnovative and Sustainable Technologies for 
+Water Treatment: Trends and Future PerspectivesBasic Offline 6 9/8/2025 9/13/2025
+220 1743226478Dr.Dr Aggala 
+NagaJyothiA CharishmaVIGNAN'S INSTITUTE OF 
+INFORMATION TECHNOLOGYANDHRA 
+PRADESHVISHAKHAPATN
+AMSouth-Central / 
+VISAKHAPATNA
+M530049Speech Signal 
+ProcessingSpeech AI and Signal Processing: From 
+Fundamentals to Real-World ImplementationsBasic Offline 6 9/8/2025 9/13/2025
+221 1741841636Dr.Manmeet 
+SinghDr Supriya Pathak ORIENTAL UNIVERSITY INDOREMADHYA 
+PRADESHINDORE Central / SANWER 453555Intellectual 
+Property RightsEmpowering Innovation through   Intellectual 
+Property RightsBasic Offline 6 9/8/2025 9/13/2025
+
+--- Page 13 ---
+13ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+222 1741339512 Dr.Dr B SureshPANKAJ 
+SHRIV ASTA V ACORPORATE INSTITUTE OF SCIENCE 
+& TECHNOLOGYMADHYA 
+PRADESHBHOPAL Central / BHOPAL 4620223D Printing and 
+DesignPARAMETRIC MODELING: ADV ANCE 
+DESIGN STRATEGIES FOR COMPLEX 3D 
+PRINTINGBasic Offline 6 9/8/2025 9/13/2025
+223 1742982584Dr.Vishal Ashok 
+WankhedeParag Raghunath Sali"SNJB'S SHRI. HIRALAL HASTIMAL 
+(JAIN BROTHERS, JALGAON) 
+POLYTECHNIC"MAHARASHTRA NASHIKWestern / 
+CHANDWAD423101 Industry 4.0/5.0AI, IoT and Cyber-Physical Systems: Driving the 
+Future of Industry 4.0Basic Offline 6 9/8/2025 9/13/2025
+224 1744021684Mrs.Sonali 
+Anirudha ShastriGaurav Mukund 
+KulkarniGURU GOBIND SINGH 
+POLYTECHNIC, NASHIKMAHARASHTRA NASHIKWestern /  
+NASHIK422009Sustainability 
+EngineeringEmerging Trends in Renewable Energy and 
+Smart Grid TechnologiesBasic Offline 6 9/8/2025 9/13/2025
+225 1742875779 Dr.Pradeep H KDr Thimmegowda M 
+NJSS ACADEMY OF TECHNICAL 
+EDUCATIONKARNATAKABANGALORE 
+URBANSouth-West / 
+BANGALORE560060Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)Advancements in Semiconductors, System 
+software and AI for Digital AgricultureAdvanced Offline 12 9/8/2025 9/20/2025
+226 1743146252Dr.Debabrata 
+MazumdarDr Bikash BanerjeeABACUS INSTITUTE OF 
+ENGINEERING AND MANAGEMENTWEST BENGAL HOOGHLY Eastern / MOGRA 712148 Robotics Robotics Basic Offline 6 9/8/2025 9/13/2025
+227 1742197202Dr.Durgesh 
+TripathiDr Sachin BhartiGURU GOBIND SINGH 
+INDRAPRASTHA UNIVERSITYDELHISOUTH WEST 
+DELHINorth-West / 
+DWARKA110078Film and Video 
+CommunicationDigital Literacy and New Media: A Pathway to 
+Viksit Bharat @ 2047Basic Offline 6 9/9/2025 9/15/2025
+228 1743751747Dr.SANJEEV 
+SANGAMISHASHANK 
+V ANAKUDARIJAIN COLLEGE OF ENGINEERING KARNATAKA BELGAUMSouth-West / 
+BELGAUM590014Artificial 
+Intelligence & 
+ApplicationsEmerging Trends in AI for Intelligent Waste 
+Management in Smart CitiesBasic Offline 6 9/14/2025 9/19/2025
+229 1742568164 Dr.Jagadish R M Azhar Baig MBALLARI INSTITUTE OF 
+TECHNOLOGY & MANAGEMENTKARNATAKA BELLARYSouth-West / 
+BELLARY583104Artificial 
+Intelligence & 
+ApplicationsSmart and Sustainable Agriculture:  Leveraging 
+AI, IoT, and Big Data for Societal ImpactBasic Offline 6 9/15/2025 9/20/2025
+230 1743434817Dr.ALOK 
+KUMAR 
+SHRIV ASTA VMrs Suparna Pal JIS COLLEGE OF ENGINEERING WEST BENGAL NADIAEastern / 
+KALYANI741235Green 
+TechnologyAdvancements in Green Technology Basic Offline 6 9/15/2025 9/20/2025
+231 1742890596Dr.Anurekha 
+NayakDebayani Mishra DRIEMS UNIVERSITY ODISHA CUTTACKEastern / 
+KAIRAPARI754022Artificial 
+Intelligence & 
+ApplicationsAdvancements in AI & ML for Power System 
+AnalysisBasic Offline 6 9/15/2025 9/20/2025
+232 1741077066 Dr.R. RA VIJAINUL FATHIMA 
+AFRANCIS XA VIER ENGINEERING 
+COLLEGETAMIL NADU TIRUNELVELISouthern / 
+TIRUNELVELI627003Artificial 
+Intelligence & 
+ApplicationsArtificial Intelligence Based Pocketable Sign 
+Language Translation for Physically challenged 
+PeopleBasic Offline 6 9/15/2025 9/20/2025
+233 1743653528Dr.Pradeep V 
+JadhavDr Milind Anand 
+PatwardhanBHARATI VIDYAPEETH 'S COLLEGE 
+OF ENGINEERING FOR WOMENMAHARASHTRA PUNE Western / PUNE 4110433D Printing and 
+Design3D Printing and Design Basic Offline 6 9/15/2025 9/20/2025
+234 1743055141Dr.P 
+VIJAYALAKSH
+MIBDhananjeiyanKNOWLEDGE INSTITUTE OF 
+TECHNOLOGYTAMIL NADU SALEM Southern / SALEM 637504Artificial 
+Intelligence & 
+ApplicationsEMPOWERING EDUCATORS - EXPLORING 
+QUANTUM COMPUTING AND AI  
+FRONTIERSBasic Offline 6 9/15/2025 9/20/2025
+235 1741775570Dr.Subrata 
+Borgohain GogoiDr Borkha MechDEPARTMENT OF PETROLEUM 
+TECHNOLOGYASSAM DIBRUGARHEastern / 
+DIBRUGARH786004Energy 
+EngineeringCutting-Edge Innovations in Hydrogen Energy 
+and Green Technology for Sustainable 
+DevelopmentAdvanced Offline 12 9/15/2025 9/27/2025
+236 1742887090 Dr.Sridevi S Dr G AnandACHARIYA COLLEGE OF 
+ENGINEERING TECHNOLOGYPUDUCHERRY PUDUCHERRYSouthern / 
+URUV AIYARU605110Micro/Smart 
+GridsEMERGING GRID INTEGRATION ISSUES 
+AND CHALLENGES IN THE PERSPECTIVE 
+OF RENEWABLE RESOURCESBasic Offline 6 9/15/2025 9/20/2025
+237 1741921470Dr.
+NALLAKUMAR 
+RMs Chandragandhi SKARPAGAM INSTITUTE OF 
+TECHNOLOGYTAMIL NADU COIMBATORESouthern / 
+MADUKKARAI641105Artificial 
+Intelligence & 
+ApplicationsRevolutionizing Agriculture with AI for 
+Enhancing Productivity and SustainabilityBasic Offline 6 9/15/2025 9/20/2025
+238 1741153226Dr.gunda shyama 
+chandra prasadJ Srinivas MATRUSRI ENGINEERING COLLEGE TELANGANA HYDERABADSouth-Central / 
+HYDERABAD500059Artificial 
+Intelligence & 
+ApplicationsFederated Learning & Generative AI: 
+Transforming Smart AgricultureBasic Offline 6 9/15/2025 9/20/2025
+239 1742358732Dr.Kumar 
+JanakiramanDr S Vaidevi RATHINAM TECHNICAL CAMPUS TAMIL NADU COIMBATORESouthern / 
+COIMBATORE641021 Biotechnology Nanomedicine forPrecision Drug Targeting Basic Offline 6 9/15/2025 9/20/2025
+240 1743056044Dr.P Venkata 
+KrishnaV SarithaSCHOOL OF ENGINEERING & 
+TECHNOLOGYANDHRA 
+PRADESHCHITTOORSouth-Central / 
+TIRUPATI517502Quantum 
+Computing & 
+TechnologyRecent Advances in Quantum Computing and 
+TechnologiesBasic Offline 6 9/15/2025 9/20/2025
+
+--- Page 14 ---
+14ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+241 1742964054 Dr.Ritesh Koundal Dr Mridul SharmaJAWAHARLAL NEHRU  
+GOVERNMENT  ENGINEERING  
+COLLEGEHIMACHAL 
+PRADESHMANDINorth-West / 
+SUNDERNAGAR175018Advanced 
+MaterialsAdvanced Materials & Smart Manufacturing 
+TechnologiesBasic Offline 6 9/15/2025 9/20/2025
+242 1743153665Dr.G MAHESH 
+KUMARMrs K PADMA 
+PRIYABHARATIYA VIDYA BHA V AN'S 
+VIVEKANANDA COLLEGE OF 
+SCIENCE, HUMANITIES AND 
+COMMERCETELANGANA HYDERABADSouth-Central / 
+SECUNDERABAD500094Cloud 
+TechnologyUnlocking Cloud Potential : Bridging Theory and 
+Practice for EducatorsBasic Offline 6 9/15/2025 9/20/2025
+243 1743159562Dr.Uday Kumar 
+JagannathanAjay RM. S. RAMAIAH UNIVERSITY OF 
+APPLIED SCIENCESKARNATAKABANGALORE 
+URBANSouth-West / 
+BANGALORE560054Risk 
+ManagementRisk Management: An Integrated Approach to 
+Tools, Techniques, and Best PracticesBasic Offline 6 9/15/2025 9/20/2025
+244 1743657683Dr.Shravan Jasraj 
+ChandakDr Manisha RajSYMBIOSIS INTERNATIONAL 
+(DEEMED UNIVERSITY)MAHARASHTRA PUNEWestern / LA V ALE 
+,MULSHI412115Social Enterprise 
+ManagementFrugal Innovation and Social Entrepreneurship: 
+A Strategic Approach to SDGsBasic Offline 6 9/15/2025 9/20/2025
+245 1743070782Mr.HIMANSHU 
+NAUTIYALNitin Kumar GuptaTHDC INSTITUTE OF HYDRO POWER 
+ENGINEERING AND TECHNOLOGYUTTARAKHANDTEHRI 
+GARHWALNorthern / NEW 
+TEHRI249131Green 
+TechnologyClean and Alternate Energy for Sustainable 
+Development: Innovations and TrendsBasic Offline 6 9/15/2025 9/20/2025
+246 1743230722 Dr.Kavita Patil Mayuri KulkarniSHRI VILE PARLE KELA V ANI 
+MANDAL'S INSTITUTE OF 
+TECHNOLOGY , DHULEMAHARASHTRA DHULE Western / DHULE 424001Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)Application of Blockchain In Healthcare Basic Offline 6 9/15/2025 9/20/2025
+247 1742360852Dr.N.Rajasekhar 
+VarmaT MADHUBABUTEEGALA KRISHNA REDDY 
+ENGINEERING COLLEGETELANGANA RANGAREDDISouth-Central / 
+HYDERABAD500097 Energy StorageRecent advancements in Energy storage and 
+charging TechnologiesBasic Offline 6 9/15/2025 9/20/2025
+248 1743097796 Dr.Anitha Jacob Manasa P SMAHARAJA'S TECHNOLOGICAL 
+INSTITUTEKERALA THRISSURSouth-West / 
+THRISSUR/THRIS
+SUR/CHEMBUKK
+A VU680020GIS; Remote 
+SensingGeographic Information System and Remote 
+SensingBasic Offline 6 9/15/2025 9/20/2025
+249 1743243310Dr.Rashmin 
+Shaileshbhai 
+TannaBhagirath S BhattA. V . PAREKH TECHNICAL 
+INSTITUTEGUJARAT RAJKOT Central / RAJKOT 360001Machine 
+LearningMachine Learning in Industrial IoT Basic Offline 6 9/15/2025 9/20/2025
+250 1743673423Dr.Mariappan 
+Dharmaraj NadarDr GAjendra V PatilPILLAI HOC COLLEGE OF 
+ENGINEERING AND TECHNOLOGYMAHARASHTRA RAIGADWestern / 
+RASAYANI410207Digital 
+Manufacturing 
+TechnologyRecent Trends and digital techniques in 
+Manufacturing SystemsAdvanced Offline 12 9/15/2025 9/27/2025
+251 1743137062 Dr.Pankaj Bharti Diwakar SinghENTREPRENEURSHIP DEVELOPMENT 
+INSTITUTE OF INDIAGUJARAT GANDHINAGAR Central / BHAT 382428Social Enterprise 
+ManagementSocial Enterprise Management: Innovation, 
+Impact, and SustainabilityBasic Offline 6 9/15/2025 9/20/2025
+252 1743127988 Dr.Natarajan R M AishwaryaFATIMA MICHAEL COLLEGE OF 
+ENGINEERING & TECHNOLOGYTAMIL NADU MADURAISouthern / 
+MADURAI625020Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesEnergy-Based Electric Vehicle Battery 
+Management System with Artificial Intelligence 
+for Sustainable TransportationAdvanced Offline 12 9/15/2025 9/27/2025
+253 1743238496 Dr.Sushil Kumar Dr Jaspreet Bedi BBK DA V COLLEGE FOR WOMEN PUNJAB AMRITSARNorth-West / 
+KHIALA 
+KHURD/AMRITS
+AR143001Artificial 
+Intelligence and 
+ApplicationsArtificial Intelligence: Concept, Applications and 
+ChallengesBasic Offline 6 9/15/2025 9/20/2025
+254 1742200426 Dr.vikas patidar Valay BhawsarSCHOOL OF DESIGN SRI SATYA SAI 
+UNIVERSITY OF TECHNOLOGY AND 
+MEDICAL SCIENCEMADHYA 
+PRADESHSEHORE Central / SEHORE 466001Furniture and 
+Interior DesignEmerging Trends and Innovations in Interior 
+DesignBasic Offline 6 9/15/2025 9/20/2025
+255 1743570788 Dr.Savitha J Dr C KumuthiniDR. N.G.P ARTS AND SCIENCE 
+COLLEGETAMIL NADU COIMBATORESouthern / 
+KALAPATTI641048Artificial 
+Intelligence and 
+ApplicationsAI and Data Science for Ecological 
+Sustainability: Innovative Practices and 
+ApplicationsBasic Offline 6 9/15/2025 9/20/2025
+256 1743055975Dr.Nagaraja C 
+ReddyREDDAPPA H NBANGALORE INSTITUTE OF 
+TECHNOLOGYKARNATAKABANGALORE 
+URBANSouth-West / 
+BANGALORE560004Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)Computational and Simulation Techniques Basic Offline 6 9/22/2025 9/27/2025
+257 1741759100Dr.Martin 
+SahayarajDr N TamilarasanSRI INDU COLLEGE OF 
+ENGINEERING & TECHNOLOGYTELANGANA RANGAREDDISouth-Central / 
+HYDERABAD501510Machine 
+LearningAdvances in supercomputing for machine 
+learning: techniques, tools, and real-world 
+applicationsBasic Offline 6 9/22/2025 9/27/2025
+
+--- Page 15 ---
+15ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+258 1742802451 Dr.Shilpi Jain Nikita JainPOORNIMA COLLEGE OF 
+ENGINEERINGRAJASTHAN JAIPURNorth-West / 
+JAIPUR302022Bioinformatics/
+Computational 
+BiologyRECENT TRENDS OF MATHEMATICAL 
+AND COMPUTATIONAL BIOLOGYBasic Offline 6 9/22/2025 9/27/2025
+259 1742884591 Dr.Ashwini B Dr Ramesh GNMAM INSTITUTE OF TECHNOLOGY , 
+NITTEKARNATAKA UDUPISouth-West / 
+NITTE574110Machine 
+LearningApplication of Machine Learning Techniques in 
+HealthcareBasic Offline 6 9/22/2025 9/27/2025
+260 1743677637 Dr.Sridharan M Senthil Kumar SSRM INSTITUTE OF SCIENCE AND 
+TECHNOLOGY  TIRUCHIRAPPALLITAMIL NADUTIRUCHIRAPPAL
+LISouthern / 
+IRUNGALUR621105Machine 
+LearningSustainable Hydrogen Energy: Technology, 
+Innovation, and EntrepreneurshipBasic Offline 6 9/22/2025 9/27/2025
+261 1743836821Dr.siV AKUMAR 
+GOVINDARAJDr FARIDA 
+BEGUMSRI RAMAKRISHNA COLLEGE OF 
+ARTS AND SCIENCETAMIL NADU COIMBATORESouthern / 
+COIMBATORE641006Supply Chain 
+Management and 
+ResilienceEnhancing Supply chain Management and 
+Resilience through Robotic Process Automation
+(RPA)Basic Offline 6 9/22/2025 9/27/2025
+262 1741108752 Dr.Mamta Singh Shishir Shrivastava SAI MAHA VIDYALAYA CHHATTISGARH DURG Central / BHILAI 490006Artificial 
+Intelligence and 
+ApplicationsAI for NextGen: Ethics, Innovation and 
+SustainabilityBasic Offline 6 9/22/2025 9/27/2025
+263 1742281026Dr.Kother 
+Mohideen SPraveen Kumar V ACHARYA BANGALORE B SCHOOL KARNATAKABANGALORE 
+URBANSouth-West / 
+BENGALURU560091Artificial 
+Intelligence and 
+ApplicationsAI-Driven World: Innovation, Automation, and 
+Human Empowerment with respect to Health, 
+Agriculture and EducationBasic Offline 6 9/22/2025 9/27/2025
+264 1742278228 Dr.Nripinder Kaur Gurlal SinghAMAR SHAHEED BABA AJIT SINGH 
+JUJHAR SINGH MEMORIAL COLLEGE 
+BELAPUNJAB RUPNAGAR North-West / BELA 140111Digital 
+MarketingEnhancing Pedagogy with Digital Marketing 
+Techniques: Empowering Educators for Viksit 
+Bharat AbhiyanBasic Offline 6 9/22/2025 9/27/2025
+265 1743147307Dr.Manhar 
+Syundarjibhai 
+KagtharaMohit A Lakhwani ATMIYA UNIVERSITY GUJARAT RAJKOT Central / RAJKOT 3600053D Printing and 
+DesignShaping Tomorrow: 3D Printing & Design for 
+EducatorsBasic Offline 6 9/22/2025 9/27/2025
+266 1743055839Dr.Lokesh 
+VijayvargySachin Kumar 
+ManglaJAIPURIA INSTITUTE OF 
+MANAGEMENTRAJASTHAN JAIPURNorth-West / 
+PRATAP NAGAR, 
+SANGANER302033Sustainable 
+Development 
+GoalsCircular Economy and SDG12: A Roadmap for 
+Sustainable Industrial PracticesBasic Offline 6 9/29/2025 10/4/2025
+267 1743757409Dr.AAQUIL 
+BUNGLOWALAranvijay parmarSRI AUROBINDO INSTITUTE OF 
+TECHNOLOGY , INDOREMADHYA 
+PRADESHINDORE Central / INDORE 453111Autonomous 
+VehiclesDrones for Sustainable Innovation: Advancing 
+Autonomous TechnologiesBasic Offline 6 10/6/2025 10/11/2025
+268 1741071625Dr.Abhaya Kumar 
+KepulajeVarun KrishnaSHRI MADHWA V ADIRAJA 
+INSTITUTE OF TECHNOLOGY AND 
+MANAGEMENTKARNATAKA UDUPISouth-West / 
+BANTAKAL574115Financial 
+ModellingModelling for Business Decisions Basic Offline 6 10/6/2025 10/11/2025
+269 1741840927Dr.VINOD 
+KUMAR TDr Muraliraja RVELS INSTITUTE OF SCIENCE 
+TECHNOLOGY AND ADV ANCED 
+STUDIESTAMIL NADU KANCHIPURAMSouthern / 
+PALLA V ARAM600117Autonomous 
+VehiclesSkilling Educators in Indigenous Drone 
+Development: A Design Thinking ApproachBasic Offline 6 10/6/2025 10/11/2025
+270 1742285024 Dr.Pavan Agrawal Arvind Singh TomarSHRIRAM INSTITUTE OF 
+INFORMATION TECHNOLOGYMADHYA 
+PRADESHMORENACentral / 
+BANMORE476444Artificial 
+Intelligence & 
+ApplicationsAI driven Emerging Technologies in Engineering Basic Offline 6 10/6/2025 10/11/2025
+271 1742647953 Dr.Niteen Kakade Ms Heena kachhelaTULSIRAMJI GAIKWAD-PATIL 
+COLLEGE OF ENGINEERING AND 
+TECHNOLOGYMAHARASHTRA NAGPURWestern / 
+NAGPUR441108Sensor network 
+for agriculture 
+managementOne week FDP on Application of 
+Semiconductors, Sensors and Drones in Smart 
+AgricultureBasic Offline 6 10/6/2025 10/11/2025
+272 1744197148Dr.SRIPARNA 
+BASUTavishi Tewary and 
+Sher Jahan KhanFORE SCHOOL OF MANAGEMENT DELHI NEW DELHINorth-West / NEW 
+DELHI110016Green 
+TechnologySustainable & Smart Agribusiness: merging 
+green practices with digital innovationBasic Offline 6 10/6/2025 10/11/2025
+273 1741845361Dr.
+VIJAYALAXMI 
+BIRADARMr Abhishek Kumar 
+GuptaKALINGA UNIVERSITY- FACULTY OF 
+TECHNOLOGYCHHATTISGARH RAIPURCentral / NEW 
+RAIPUR492001Augmented 
+Reality (AR)/ 
+Virtual Reality 
+(VR)AR/VR/MR: Differences and its Application 
+areasBasic Offline 6 10/6/2025 10/11/2025
+274 1743429051Dr.BHOJRAJ 
+NATTHUJI 
+KALEProf Nitin P 
+PadgahanSURYODAYA COLLEGE OF 
+ENGINEERING & TECHNOLOGYMAHARASHTRA NAGPURWestern / 
+NAGPUR441204Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesEV’s, Hydrogen and Energy Storage: Next 
+Generation EnergyBasic Offline 6 10/6/2025 10/11/2025
+275 1742727048Dr.Satinder Bal 
+GuptaPankaj Kumar TyagiINDIRA GANDHI UNIVERSITY 
+MEERPURHARYANA REWARINorth-West / 
+REWARI122502Precision Health 
+TechnologyIntegrating AI and Precision Technology in 
+Agriculture and HealthcareBasic Offline 6 10/6/2025 10/11/2025
+276 1744194209Mrs.Arati P 
+ArewarMr Vijay S KoyalBAJAJ CHANDRAPUR POLYTECHNIC 
+CHANDRAPURMAHARASHTRA CHANDRAPURWestern / 
+CHANDRAPUR4424023D Printing and 
+DesignApplications of 3D Printing In Industry Basic Offline 6 10/6/2025 10/11/2025
+
+--- Page 16 ---
+16ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+277 1743071703Mr.Saket Subhash 
+PatilMr Pandurang Baban 
+BhisePADMASHRI DR. V .B.  KOLTE   
+COLLEGE  OF ENGINEERINGMAHARASHTRA BULDHANAWestern / 
+MALKAPUR4431013D Printing and 
+DesignSmart manufacturing & 3D Printing Technology Basic Offline 6 10/6/2025 10/11/2025
+278 1743059602 Dr.JAYASREE T Dr SAROJINI RGOVERNMENT COLLEGE OF 
+ENGINEERINGTAMIL NADU THENISouthern / 
+MELACHOKKAN
+ATHAPURAM625513Satellite 
+Navigation 
+SystemEmerging Trends in Satellite Technology and 
+ApplicationBasic Offline 6 10/13/2025 10/18/2025
+279 1743677194Dr.CHALLA 
+KISHORE 
+REDDYKHAMBHAMPATI 
+GURU MURTHYVIKAS GROUP OF INSTITUTIONSANDHRA 
+PRADESHKRISHNASouth-Central / 
+NUNNA, 
+VIJAYAWADA521212Advanced 
+MaterialsRecent Trends in Usage of Smart Materials & 
+Advanced Manufacturing Techniques in 
+Relevance to Industry 5.OBasic Offline 6 10/13/2025 10/18/2025
+280 1740989890 Dr.S S SIV ARJU Pradeep Kumar MRVS COLLEGE OF ENGINEERING 
+AND TECHNOLOGYTAMIL NADU COIMBATORESouthern / 
+COIMBATORE641402Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesThe Role of AI in Electric Vehicles and Charging 
+StationsBasic Offline 6 10/13/2025 10/18/2025
+281 1742897471Dr.Suseela Menon 
+RSoumya CPARAMEKKA VU COLLEGE OF ARTS 
+AND SCIENCEKERALA THRISSURSouth-West / 
+THRISSUR680002Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)Next Generation Computing Paradigms Basic Offline 6 10/13/2025 10/18/2025
+282 1742987220Dr.Krishna 
+Murthy PannalaMrs A SwathiJAYA PRAKASH NARAYAN COLLEGE 
+OF ENGINEERINGTELANGANAMAHABUBNAG
+ARSouth-Central / 
+MAHABUBNAGA
+R509001 Cyber Security Big Data and Cloud Computing Basic Offline 6 10/13/2025 10/18/2025
+283 1743742579Dr.SAHAYA 
+DENNISH BABUDr S GOPINATHCHETTINAD COLLEGE OF 
+ENGINEERING & TECHNOLOGYTAMIL NADU KARUR Southern / KARUR 639114Nanotechnology, 
+Materials & 
+ScienceHybrid and Multifunctional Materials: Bridging 
+Energy, Defense, and Aerospace FrontiersBasic Offline 6 10/20/2025 10/25/2025
+284 1743143329 Dr.Puran GourProf Rajeev Kumar 
+ThakurNRI INSTITUTE OF INFORMATION 
+SCIENCE AND TECHNOLOGYMADHYA 
+PRADESHBHOPAL Central / BHOPAL 462021Antenna & RF 
+DesignsEmerging Technologies in Semiconductor 
+ManufacturingBasic Offline 6 10/20/2025 10/25/2025
+285 1743756021Dr.Uttiya 
+BhattacharyyaGarima JainNIET BUSINESS SCHOOL, GREATER 
+NOIDAUTTAR 
+PRADESHGAUTAM 
+BUDDHA 
+NAGARNorthern / 
+GREATER NOIDA201306 Design ThinkingDesign Thinking: FromInsights to Viability for 
+ManagersBasic Offline 6 10/21/2025 10/27/2025
+286 1743168336 Dr.Prativa Rai Dibya ThapaSIKKIM INSTITUTE OF SCIENCE AND 
+TECHNOLOGYSIKKIM EAST SIKKIMEastern / 
+JORETHANG737104 Cyber SecurityIntroduction to Cyber Security and Ethical 
+HackingBasic Offline 6 10/27/2025 11/1/2025
+287 1741593164 Dr.Asha P Tom Dr Jiji Krishnan T UCARMEL COLLEGE OF ENGINEERING 
+AND TECHNOLOGYKERALA ALAPPUZHASouth-West / 
+PUNNAPARA688004Waste 
+Management 
+Technology & 
+ApplicationsSustainable Technologies for Waste 
+Management-Innovations for a Greener FutureBasic Offline 6 10/27/2025 11/1/2025
+288 1743047212 Dr.Dr.S.Priya AR SivaramACADEMY OF MARITIME 
+EDUCATION AND TRAINING 
+DEEMED TO BE UNIVERSITYTAMIL NADU KANCHIPURAMSouthern / 
+CHENNAI603112Internet of 
+Things (IoT)Carbon Neutrality for Smart and Sustainable 
+Cities through Internet of Things –Energy 
+Optimization TechniquesAdvanced Offline 12 10/27/2025 11/8/2025
+289 1743058818Dr.Itishree 
+MohantySUBHAKANTA 
+DASHSYNERGY INSTITUTE OF 
+ENGINEERING & TECHNOLOGYODISHA DHENKANALEastern / 
+DHENKANAL759001Waste 
+Management 
+Technology & 
+ApplicationsHolistilic Utilization of Industrial and 
+Agricultural Waste for Sustainable EnvironmentBasic Offline 6 10/27/2025 11/1/2025
+290 1743137666Dr.USHAA 
+ESWARANS LAKSHMI MAHALAKSHMI TECH CAMPUS TAMIL NADUTIRUCHIRAPPAL
+LISouthern / 
+MELPATHU 
+VILLAGE, 
+SIRUGAMBUR P621213Quantum 
+Computing & 
+TechnologyQuantum Computing & Technology: Bridging 
+Theory and ApplicationsBasic Offline 6 10/27/2025 11/1/2025
+291 1741709536 Dr.Jeba Beula K P V SABAREESHRATHINAM COLLEGE OF ARTS AND 
+SCIENCETAMIL NADU COIMBATORESouthern / 
+COIMBATORE641021Nanotechnology, 
+Materials & 
+ScienceNext-Generation Nanomaterials for a 
+Sustainable, Self-Reliant IndiaBasic Offline 6 10/27/2025 11/1/2025
+292 1742805831 Dr.Sonal Bhati Shivangi MittalGOVT. POLYTECHNIC COLLEGE 
+DEWASMADHYA 
+PRADESHDEWAS Central / DEWAS 455001Green 
+TechnologyGreen Technologies: Innovations, Opportunities 
+and ChallengesBasic Offline 6 10/27/2025 11/1/2025
+293 1743761077Dr.Sunil Kumar 
+VishwakarmaDr NayancyPSIT-PRANVEER SINGH INSTITUTE 
+OF TECHNOLOGYUTTAR 
+PRADESHKANPUR NAGARNorthern / 
+KANPUR208020Block Chain 
+TechnologyBlockchain Technology and its Applications Basic Offline 6 11/3/2025 11/8/2025
+
+--- Page 17 ---
+17ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+294 1743231453Dr.Dhanashree 
+KulkarniAnanad DeshpandeANGADI INSTITTUTE OF 
+TECHNOLOGY AND MANAGEMENTKARNATAKA BELGAUMSouth-West / 
+BELGAUM590008Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)Exploring the impact of Artificial Intelligence on 
+Healthcare and future challengesBasic Offline 6 11/3/2025 11/8/2025
+295 1741841865Dr.MARY 
+PRA VEENAKANMANISRI RAMAKRISHNA INSTITUTE OF 
+TECHNOLOGYTAMIL NADU COIMBATORESouthern / 
+COIMBATORE641010Artificial 
+Intelligence & 
+ApplicationsFUTURE IMPACT ON WEARABLE AND 
+IMPLANTABLE DEVICES USING 
+ARTIFICIAL INTELLIGENCE IN DIGITAL 
+HEALTHBasic Offline 6 11/3/2025 11/8/2025
+296 1742884912Mr.Aswin S 
+WarrierAparna Sudhakaran 
+VVERGHESE KURIEN INSTITUTE OF 
+DAIRY AND FOOD TECHNOLOGYKERALA THRISSURSouth-West / 
+THRISSUR680651Design Thinking 
+& InnovationDairy and Food Processing: Techniques, 
+Management, and Sustainable PracticesBasic Offline 6 11/10/2025 11/15/2025
+297 1743681409 Dr.Sourav Saha Dr Subhram DasNARULA INSTITUTE OF 
+TECHNOLOGYWEST BENGALNORTH 24 
+PARGANASEastern / 
+KOLKATA700109Artificial 
+Intelligence & 
+ApplicationsNext-Gen Computational Intelligence: 
+Transforming Industry and SocietyBasic Offline 6 11/10/2025 11/15/2025
+298 1743674571 Dr.vallikannu Dr V Vasanth KumarHINDUSTAN INSTITUTE OF 
+TECHNOLOGY AND SCIENCETAMIL NADU KANCHIPURAMSouthern / 
+CHENNAI603103Antenna & RF 
+DesignsHarnessing RF-Optical Synergy for 
+Revolutionary Biomedical Devices in NGW 
+NetworksBasic Offline 6 11/10/2025 11/15/2025
+299 1743759957 Dr.Viral Kapadia Dr Hetal BhavsarFACULTY OF TECHNOLOGY & 
+ENGINEERING, THE MAHARAJA 
+SAYAJIRAO UNIVERSITY OF 
+BARODAGUJARAT V ADODARACentral / 
+V ADODARA390001Artificial 
+Intelligence & 
+ApplicationsMastering Generative AI: Prompt Engineering 
+and RAGBasic Offline 6 11/10/2025 11/15/2025
+300 1743743846Dr.PRAKRITI 
+TRIVEDIDr Gaurav SaxenaGOVT. MAHILA ENGINEERING 
+COLLEGE AJMERRAJASTHAN AJMERNorth-West / 
+AJMER305002Quantum 
+Computing & 
+TechnologyDemystifying Quantum Computing: Theory, 
+Technology, and Real-World ApplicationsBasic Offline 6 11/10/2025 11/15/2025
+301 1743837380Dr.Shashidhar 
+GuravDr Pravinkumar 
+Sudhakar PatilSHARAD INSTITUTE OF 
+TECHNOLOGY COLLEGE OF 
+ENGINEERINGMAHARASHTRA KOLHAPURWestern / 
+YADRA V
+(ICHALKARNJI)416121Machine 
+Learning“Bridging Research and AI: Methodological 
+Advances in ML and DL”Basic Offline 6 11/10/2025 11/15/2025
+302 1742032609Dr.
+SANJAYKUMAR 
+KANUBHAI 
+PATELNavneet S SharmaDR. S.&S.S. GHANDHY COLLEGE OF 
+ENGINEERING & TECHNOLOGYGUJARAT SURAT Central / SURAT 395001Energy, 
+Sustainability & 
+Climate ChangeMicro-grid Technologies and their Engineering 
+ApplicationsBasic Offline 6 11/10/2025 11/15/2025
+303 1742188468Dr.DIPANKAR 
+MAJUMDARDr Ranjan JanaRCC INSTITUTE OF INFORMATION 
+TECHNOLOGYWEST BENGAL KOLKATAEastern / 
+KOLKATA700015Artificial 
+Intelligence & 
+ApplicationsMachine Learning, Deep Learning and 
+Genarative Models: Trends and ChallangesBasic Offline 6 11/10/2025 11/15/2025
+304 1742879625Dr.PA V AN 
+SANDULADr Y V Narayana TIRUMALA ENGINEERING COLLEGEANDHRA 
+PRADESHGUNTURSouth-Central / 
+NARASARAOPET522601Artificial 
+Intelligence & 
+ApplicationsAdvancing AI: A Deep Dive into Computer 
+Vision and Natural Language ProcessingBasic Offline 6 11/10/2025 11/15/2025
+305 1740811490 Dr.Chandrika J Dr Ramesh BMALNAD COLLEGE OF 
+ENGINEERINGKARNATAKA HASSANSouth-West / 
+HASSAN573201Artificial 
+Intelligence & 
+ApplicationsTransforming Technical Education & research 
+through Generative AIBasic Offline 6 11/10/2025 11/15/2025
+306 1743221847Dr.Dharavath 
+BalojiKilaru KalpanaK.G.REDDY COLLEGE OF 
+ENGINEERING & TECHNOLOGYTELANGANA RANGAREDDISouth-Central / 
+HYDERABAD5015043D Printing and 
+DesignAdvances in 3D Printing and Design for Modern 
+ManufacturingBasic Offline 6 11/10/2025 11/15/2025
+307 1743068488Dr.Sampurna 
+Nand MehtaDr Mishu TripathiTHAKUR GLOBAL BUSINESS 
+SCHOOLMAHARASHTRA MUMBAI CITYWestern / 
+MUMBAI400101 Industry 4.0/5.0From Smart Factories to Human-Centric 
+Innovation: Exploring Industry 4.0 and 5.0Basic Offline 6 11/10/2025 11/15/2025
+308 1743142875Dr.Pravash Ranjan 
+TripathyA Baradeswaran GANDHI NATIONAL COLLEGE ODISHA KHORDHAEastern /  
+BHUBANESWAR752054Artificial 
+Intelligence & 
+ApplicationsNext-Gen Microwave & Millimeter-Wave 
+Semiconductor Devices: IMPATT, Gunn, & 
+BeyondBasic Offline 6 11/10/2025 11/15/2025
+309 1743228925 Dr.Karthik KovuriDr Ashim Jyoti 
+GogoiKU SCHOOL OF ENGINEERING 
+TECHNOLOGY AND MANAGEMENTASSAM JORHAT Eastern / JORHAT 785006Artificial 
+Intelligence & 
+ApplicationsThe Future of Connectivity: AI Driven 
+advancements in Semiconductors and Wireless 
+CommunicationsBasic Offline 6 11/10/2025 11/15/2025
+310 1742281813Dr.Harinadh 
+VemanaboinaNaveen Kilari VEMU INSTITUTE OF TECHNOLOGYANDHRA 
+PRADESHCHITTOORSouth-Central / 
+CHITTOOR5171123D Printing and 
+Design3D Printing and Post-processing Techniques Basic Offline 6 11/10/2025 11/15/2025
+311 1743755389Dr.Devarasetty 
+PrasadDr G Sai Chaitanya 
+KumarDVR&DR.HS MIC COLLEGE OF 
+TECHNOLOGYANDHRA 
+PRADESHKRISHNASouth-Central / 
+KANCHIKACHER
+LA521180Quantum 
+Computing & 
+TechnologyAI Meets Quantum Computing- Transforming 
+Academic ParadigmsBasic Offline 6 11/10/2025 11/15/2025
+
+--- Page 18 ---
+18ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+312 1741599511 Dr.vijay Kumar M Pradeep Kumar V GSRI JAYACHAMARAJENDRA 
+COLLEGE OF ENGINEERINGKARNATAKA MYSORESouth-West / 
+MYSORE570006 RoboticsIntelligent Automation: Leveraging Robotics,  
+AI, and IoT for Industry 4.0Basic Offline 6 11/10/2025 11/15/2025
+313 1743678837 Dr.Chella Gifta C Marimuthu K NATIONAL ENGINEERING COLLEGE TAMIL NADU THOOTHUKUDISouthern / 
+KOVILPATTI628503Earthquake 
+EngineeringBuilding Resilient Infrastructure to Earthquakes: 
+From Design to RestorationBasic Offline 6 11/10/2025 11/15/2025
+314 1742294893 Dr.S.Ramasamy Dr R Senthil KumarHINDUSTHAN INSTITUTE OF 
+TECHNOLOGYTAMIL NADU COIMBATORESouthern / 
+COIMBATORE641032Quantum 
+Computing & 
+TechnologyQuantum Computing for Revolutionizing the 
+Future of MedicineBasic Offline 6 11/10/2025 11/15/2025
+315 1743660780Dr.RAJESH 
+MUJARIYADr Disha ChouhanSCHOOL OF ENGINEERING AND 
+TECHNOLOGYMADHYA 
+PRADESHBALAGHATCentral / 
+BALAGHAT481001Nanotechnology, 
+Materials & 
+ScienceEmerging Trends in Nanotechnology Basic Offline 6 11/10/2025 11/15/2025
+316 1743166649 Dr.Aarti Sukheja Rinkoo ShantnuPILLAI COLLEGE OF ARTS 
+COMMERCE & SCIENCEMAHARASHTRA RAIGADWestern / NEW 
+PANVEL410206Artificial 
+Intelligence and 
+ApplicationsAI-Driven Education: Empowering Educators for 
+the FutureBasic Offline 6 11/10/2025 11/15/2025
+317 1744110510Mr.Devasis 
+PradhanDr RajeswariACHARYA INSTITUTE OF 
+TECHNOLOGYKARNATAKABANGALORE 
+URBANSouth-West / 
+BANGALORE560090Antenna & RF 
+DesignsNext Generation RF IC Design for 5G: 
+Architectures, Challenges & Industry 
+ApplicationsAdvanced Offline 12 11/10/2025 11/22/2025
+318 1742888172 Dr.Meena Laad Kuldeep MishraSYMBIOSIS INSTITUTE OF 
+TECHNOLOGYMAHARASHTRA PUNE Western / PUNE 412115 Energy StorageElectrochemical Energy Storage: Materials and 
+DevicesBasic Offline 6 11/17/2025 11/22/2025
+319 1743690150Dr.
+UDHAYAKUMA
+R PA HEMALATHA K.L.N.COLLEGE OF ENGINEERING TAMIL NADU SIV AGANGASouthern / 
+POTTAPALAYA
+M630611Sustainable 
+Development 
+GoalsManufacturing and Industry 4.0: Role in 
+achieving Sustainable Development GoalsBasic Offline 6 11/17/2025 11/22/2025
+320 1743171184Dr.Tejinder Pal 
+Singh SaraoKovid SharmaBABA FARID COLLEGE OF 
+ENGINEERING & TECHNOLOGYPUNJAB BATHINDANorth-West / 
+BATHINDA151001 Industry 4.0/5.0Industry 4.0: Challenges and Opportunities in 
+Industries and AcademiaBasic Offline 6 11/17/2025 11/22/2025
+321 1743165177 Dr.DIVYA K S Ms Navya FRancis KRISTU JAYANTI COLLEGE KARNATAKABANGALORE 
+RURALSouth-West / 
+BANGALORE560077 Cyber SecurityEmerging Trends in Cybersecurity: Hands-on 
+Learning for the FutureBasic Offline 6 11/17/2025 11/22/2025
+322 1741853375 Dr.JAYA C K Archa P SINSTITUTE OF ENGINEERING AND 
+TECHNOLOGYKERALA MALAPPURAMSouth-West / 
+THENHIPALAM673636Engineering 
+ManagementRevolutionizing the Power Grid using Smart 
+Grid TechnologiesBasic Offline 6 11/17/2025 11/22/2025
+323 1744194647Dr.NATHI RAM 
+CHAUHANDr Pooja BhatiINDIRA GANDHI DELHI TECHNICAL 
+UNIVERSITY FOR WOMENDELHI CENTRAL DELHINorth-West / 
+DELHI110006 RoboticsFrontiers in Robotics Technology, Applications 
+and InnovationBasic Offline 6 11/17/2025 11/22/2025
+324 1740809501 Dr.Palanivel N Dr S VaijayanthiMANAKULA VINAYAGAR INSTITUTE 
+OF TECHNOLOGYPUDUCHERRY PUDUCHERRYSouthern / 
+PUDUCHERRY605107Internet of 
+Things (IoT)AI-IoT-Edge Revolution: Building the Future of 
+Smart SystemsBasic Offline 6 11/17/2025 11/22/2025
+325 1743752088 Dr.kamal UpretiRamesh Chandra 
+PooniaCHRIST (DEEMED TO BE 
+UNIVERSITY), DELHI NCR CAMPUSUTTAR 
+PRADESHGHAZIABADNorthern / 
+GHAZIABAD201003Artificial 
+Intelligence and 
+ApplicationsNext-Gen Computing for Sustainability: 
+Intelligent Technologies and Data-Driven 
+SolutionsBasic Offline 6 11/17/2025 11/22/2025
+326 1741581823 Dr.KarthikeyanDr  Raghavendra 
+Gowda DV ARDHAMAN COLLEGE OF 
+ENGINEERINGTELANGANA RANGAREDDISouth-Central / 
+HYDERABAD501218Artificial 
+Intelligence & 
+ApplicationsScope and Future Directions: Enhancing 
+Scalability and Efficiency through the Evolving 
+Integration of AI and High-Performance 
+Computing (HPC)Advanced Offline 12 11/17/2025 11/29/2025
+327 1742464348Dr.P.
+MEENAKSHI 
+DEVIDr 
+VIJAYARANGAN  
+RK S R COLLEGE OF ENGINEERING TAMIL NADU NAMAKKALSouthern / 
+TIRUCHENGODE637215Quantum 
+TechnologiesShaping Smarter World: Quantum Technology 
+through AI and QMLAdvanced Offline 12 11/17/2025 11/29/2025
+328 1742294678Dr.Arpan 
+ShrivastavDr Vinod Kumar 
+MishraIPS ACADEMY INDOREMADHYA 
+PRADESHINDORE Central / INDORE 452012Strategic 
+PlanningData-Driven Strategic Planning & Decision-
+MakingBasic Offline 6 11/24/2025 11/29/2025
+329 1743258353 Dr.Nitin K Dhote Manoj MauryaST. VINCENT PALLOTTI COLLEGE OF 
+ENGG. & TECHNOLOGY , NAGPURMAHARASHTRA NAGPURWestern / 
+NAGPUR441108Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+Vehicleselectric vehicle Basic Offline 6 11/24/2025 11/29/2025
+330 1743483095Dr.Valliappan 
+RamanSARAN KUMAR ACOIMBATORE INSTITUTE OF 
+TECHNOLOGYTAMIL NADU COIMBATORESouthern / 
+COIMBATORE641014 Digital ForensicsIntegrating Quantum Computing with Digital 
+Twins for Precision Agriculture: Innovations, 
+Applications and EthicsBasic Offline 6 11/24/2025 11/29/2025
+331 1743336610Dr.Remya 
+ChandranNeena V VVIMAL JYOTHI ENGINEERING 
+COLLEGEKERALA KANNURSouth-West / 
+KANNUR670632Artificial 
+Intelligence & 
+ApplicationsAI-Powered Cyber Resilience: Proactive Threat 
+Detection and Incident ResponseBasic Offline 6 11/24/2025 11/29/2025
+
+--- Page 19 ---
+19ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+332 1742716688Dr.Santosh Kumar 
+SDr Sunil Kumar K NSRI VENKATESHWARA COLLEGE OF 
+ENGINEERINGKARNATAKABANGALORE 
+URBANSouth-West / 
+BENGALURU562157Cyber Physical 
+SystemSecuring Cyber-Physical Intelligence with 
+Digital Trust and AI-Driven AutomationBasic Offline 6 11/24/2025 11/29/2025
+333 1743142215 Dr.SAJU P JOHN Dr Shyjith M B JYOTHI ENGINEERING COLLEGE KERALA THRISSURSouth-West / 
+THRISSUR679531Quantum 
+Computing & 
+TechnologyRetrieval-Augmented Generation Meets 
+Quantum Computing: Building the Future of AIBasic Offline 6 11/24/2025 11/29/2025
+334 1743204927Dr.
+SHAMNAMOL G 
+KTamilmani JayabalanSREE BUDDHA COLLEGE OF 
+ENGINEERING, PATTOORKERALA ALAPPUZHASouth-West / 
+NOORANAD690529 BiotechnologyAI Driven green Biotechnology-Pioneering a 
+sustainable futureBasic Offline 6 11/24/2025 11/29/2025
+335 1743152731Dr.Dr Kanchan 
+WaghAnand DeshkarMKSSS'S CUMMINS COLLEGE OF 
+ENGINEERING FOR WOMENMAHARASHTRA NAGPURWestern / 
+NAGPUR441110Antenna & RF 
+DesignsAdvancing Frontiers in Antenna and RF Design: 
+Bridging Theory and PracticeBasic Offline 6 11/24/2025 11/29/2025
+336 1742626490 Dr.Sandeep Garg Ms Mamta SoodORIENTAL COLLEGE OF 
+TECHNOLOGYMADHYA 
+PRADESHBHOPAL Central / BHOPAL 462021 MicroelectronicsEmerging Trends in Digital VLSI Design and AI 
+IntegrationBasic Offline 6 11/24/2025 11/29/2025
+337 1742359837Mrs.Binita Brijal 
+AcharyaMiss Nikita  PatelTAPI DIPLOMA ENGINEERING 
+COLLEGEGUJARAT SURAT Central / SURAT 359006 Cyber SecurityShaping a Secure Digital Society: Emerging 
+Trends in Information Security and PrivacyBasic Offline 6 11/24/2025 11/29/2025
+338 1743654974Dr.Narendra 
+Kumar AgrawalDr Dhwani Gangal ST WILFRED'S COLLEGE OF GIRLS RAJASTHAN JAIPURNorth-West / 
+JAIPUR302020Artificial 
+Intelligence and 
+ApplicationsResearch-Based Pedagogical Tools for Digital 
+Transformation through Artificial Intelligence & 
+Machine Learning in Higher EducationBasic Offline 6 11/30/2025 12/6/2025
+339 1742924613 Dr.Suresh P SDr  M John Robert 
+PrinceST.THOMAS COLLEGE OF 
+ENGINEERING & TECHNOLOGYKERALA ALAPPUZHASouth-West / 
+CHENGANNUR689521Artificial 
+Intelligence & 
+ApplicationsIntelligent Systems for smart cities and urban 
+mobilityBasic Offline 6 12/1/2025 12/6/2025
+340 1743695552Dr.D Davidson 
+JebaseelanD SaraswatiVELLORE INSTITUTE OF 
+TECHNOLOGY CHENNAI OFF 
+CAMPUSTAMIL NADU KANCHIPURAMSouthern / 
+CHENNAI.600127Artificial 
+Intelligence & 
+ApplicationsComputer vision technology for biomechanics 
+applicationsBasic Offline 6 12/1/2025 12/6/2025
+341 1743056934Dr.Rajul Kumar 
+MisraSaurabh SaxenaMORADABAD INSTITUTE OF 
+TECHNOLOGYUTTAR 
+PRADESHMORADABADNorthern / 
+MORADABAD244001Artificial 
+Intelligence & 
+ApplicationsAdvances in Technology through Artificial 
+Intelligence for Electric VehiclesBasic Offline 6 12/1/2025 12/6/2025
+342 1743181401 Dr.Ravi Bolimera Dr Sk FairoozNALLA NARASIMHA REDDY 
+EDUCATION SOCIETY'S GROUP OF 
+INSTITUTIONSTELANGANA RANGAREDDISouth-Central / 
+HYDERABAD500088Artificial 
+Intelligence & 
+ApplicationsFuturistic Frontiers: AI &IoT Integration for 
+advancing Signal Processing DevelopmentBasic Offline 6 12/1/2025 12/6/2025
+343 1743666343Dr.SHARV ARI 
+GOVILKARDr Mimi Cherian PILLAI COLLEGE OF ENGINEERING MAHARASHTRA RAIGADWestern / NEW 
+PANVEL410206Artificial 
+Intelligence & 
+ApplicationsXAI for Social Good: Application in Healthcare, 
+Finance and EducationBasic Offline 6 12/1/2025 12/6/2025
+344 1744275104Dr.SOUMYA A A 
+VDr Sheryl Arulini AMAR BASELIOS COLLEGE OF 
+ENGINEERING AND TECHNOLOGYKERALATHIRUV ANANT
+HAPURAMSouth-West / 
+TRIV ANDRUM695015Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesElectric Vehicles and Emerging Technologies: 
+Trends, Challenges, and InnovationsBasic Offline 6 12/1/2025 12/6/2025
+345 1743227410Dr.Divya Yudhish 
+ChirayilSulochana 
+MadachaneSIES GRADUATE SCHOOL OF 
+TECHNOLOGYMAHARASHTRA THANEWestern / NA VI 
+MUMBAI400706Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)Generative AI & Data Science: Shaping India’s 
+Next Decade of InnovationBasic Offline 6 12/1/2025 12/6/2025
+346 1742885096Dr.Uma 
+Maheshwera 
+Reddy PaturiKandi Kishore 
+KumarCVR COLLEGE OF ENGINEERING TELANGANA RANGAREDDISouth-Central / 
+IBRAHIMPATAN501510Artificial 
+Intelligence & 
+ApplicationsModelling of Manufacturing Processes – A 
+Machine Learning PerspectiveBasic Offline 6 12/1/2025 12/6/2025
+347 1743139484Dr.Kalyanapu 
+SrinivasKaata Ranjith Kumar V AAGDEVI ENGINEERING COLLEGE TELANGANA WARANGALSouth-Central / 
+WARANGAL506005Cloud 
+TechnologyArtificial Intelligence in Cloud Computing Basic Offline 6 12/1/2025 12/6/2025
+348 1741777223 Mrs.Swati SharmaZeeshan Ahmed 
+SiddiquiTHE BHOPAL SCHOOL OF SOCIAL 
+SCIENCESMADHYA 
+PRADESHBHOPAL Central / BHOPA 462024Cloud 
+TechnologyEmerging Trends and Innovations in Cloud 
+ComputingBasic Offline 6 12/1/2025 12/6/2025
+349 1742627136Mr.
+DHARMENDRA 
+KUMAR 
+SHARMAMirtunjay Kumar IIMT COLLEGE OF POLYTECHNICUTTAR 
+PRADESHGAUTHAM 
+BUDDHA 
+NAGARNorthern / G B 
+NAGAR201306 Electric Vehicles Recent Trends in Electric Vehicles Basic Offline 6 12/1/2025 12/6/2025
+
+--- Page 20 ---
+20ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+350 1743180677Dr.Deepak 
+GangwarInderpreet KaurINSTITUTE OF ENGINEERING & 
+TECHNOLOGY , MJP ROHILKHAND 
+UNIVERSITYUTTAR 
+PRADESHBAREILLYNorthern / 
+BAREILLY243006Active & 
+Passive Devices 
+in 5G/6GThe Future of Sensing and Simulation: RF, 
+Microwave, and THz Technologies in ActionBasic Offline 6 12/7/2025 12/12/2025
+351 1742479771 Dr.Vinod Kumari Dr Stuti MehlaPANIPAT INSTITUTE OF 
+ENGINEERING & TECHNOLOGYHARYANA PANIPATNorth-West / 
+PANIPAT1321023D Printing and 
+Design3D Printed Composites: Materials, Technologies, 
+and ApplicationsBasic Offline 6 12/8/2025 12/13/2025
+352 1743744256Dr.Dr RVV 
+KrishnaDr R Anil KumarADITYA COLLEGE OF ENGINEERING 
+& TECHNOLOGYANDHRA 
+PRADESHEAST 
+GODA V ARISouth-Central / 
+KAKINADA5334376th Generation 
+Mobile 
+NetworksMulticarrier Modulation Techniques for 6G 
+Wireless CommunicationsBasic Offline 6 12/8/2025 12/13/2025
+353 1742000529Dr.
+AMARENDRA 
+MATSAArunkumar PatilCENTRAL UNIVERSITY OF 
+KARNATAKAKARNATAKA GULBARGASouth-West / 
+GULBARGA585367Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesIntegration of AI & ML in Electric Mobility 
+SystemsBasic Offline 6 12/8/2025 12/13/2025
+354 1743183771Dr.ARADHANA 
+SAHUJyoti UpadhyayGD RUNGTA COLLEGE OF SCIENCE 
+AND TECHNOLOGYCHHATTISGARH DURG Central / BHILAI 490024Cloud 
+TechnologyEvolution of Serverless Computing: From FaaS 
+to Next-Gen ArchitecturesBasic Offline 6 12/8/2025 12/13/2025
+355 1743487428Dr.DEV ANG 
+SHANTILAL 
+PANDYABhavishaben 
+Rameshbhai SutharU. V . PATEL COLLEGE OF 
+ENGINEERINGGUJARAT MEHSANA Central / KHERV A 384012Machine 
+LearningHarnessing AI and ML: The Future of Smart 
+DronesBasic Offline 6 12/8/2025 12/13/2025
+356 1743221393 Dr.Madhumathi RDr M S Geetha 
+DevasanaSRI RAMAKRISHNA ENGINEERING 
+COLLEGETAMIL NADU COIMBATORESouthern / 
+COIMBATORE641022Quantum 
+Computing & 
+TechnologyThe New Age of Quantum Computing: 
+Advancements, Applications, and Future 
+ProspectsBasic Offline 6 12/8/2025 12/13/2025
+357 1744016888Dr.NAGARAJA 
+KUMARI.CHMr T ManidharGURU NANAK INSTITUTE OF 
+TECHNOLOGYTELANGANA RANGAREDDISouth-Central / 
+IBRAHIMPATNA
+M501506Energy 
+EngineeringADV ANCED TECHNOLOGIES AND AI/ML 
+INTEGRATION IN MICRO GRIDS & EVsBasic Offline 6 12/8/2025 12/13/2025
+358 1742717876Dr.SUNITHA M 
+RMs Sathyabhama RADICHUNCHANAGIRI INSTITUTE OF 
+TECHNOLOGYKARNATAKA CHIKMAGALURSouth-West / 
+CHIKMAGALUR577102Artificial 
+Intelligence & 
+ApplicationsRevolutionizing Smart Healthcare with AI, 
+Blockchain & Advanced Image ProcessingBasic Offline 6 12/8/2025 12/13/2025
+359 1742283930 Dr.Nagaraja B G MOHAMED ANEESVIDYA V ARDHAKA COLLEGE OF 
+ENGINEERINGKARNATAKA MYSORESouth-West / 
+MYSORE570002Speech Signal 
+ProcessingSignal processing in hearing aids: Current 
+techniques, challenges and opportunitiesBasic Offline 6 12/8/2025 12/13/2025
+360 1742613683 Dr.C Sreedhar S Vinay KumarG.PULLA REDDY ENGINEERING 
+COLLEGEANDHRA 
+PRADESHKURNOOLSouth-Central / 
+KURNOOL518007Artificial 
+Intelligence & 
+ApplicationsArtificial Intelligence & Applications in 
+HealthcareAdvanced Offline 12 12/8/2025 12/20/2025
+361 1743102088Dr.S Sudha 
+PonnarasiP Baby Sornalatha SANKAR POLYTECHNIC COLLEGE TAMIL NADU TIRUNELVELISouthern / 
+SANKARNAGAR627357 Electric VehiclesElectric Vehicles - Advancements and 
+ChallengesBasic Offline 6 12/8/2025 12/13/2025
+362 1742378643Dr.Sanjay G 
+SakharwadeDr Rahul MishraRUNGTA COLLEGE OF ENGINEERING 
+& TECHNOLOGYCHHATTISGARH DURG Central / BHILAI 490024Design Thinking 
+& InnovationAdvanced SolidWorks Applications for Digital 
+Manufacturing and Industry 4.0Advanced Offline 12 12/8/2025 12/20/2025
+363 1741676180 Dr.R KA VITHA Chitra DP.A.COLLEGE OF ENGINEERING AND 
+TECHNOLOGYTAMIL NADU COIMBATORESouthern / 
+POLLACHI642002 Digital TwinDESIGN AND IMPLEMENTATION OF 
+DYNAMIC 3D DIGITAL TWINS FOR SMART 
+CITY AND AGRICULTURE 5.0Advanced Offline 12 12/8/2025 12/20/2025
+364 1742203112 Mr.VikasNITIN KUMAR 
+KAROLELAXMIPATI INSTITUTE OE SCIENCE 
+&TECHNOLOGY BHOPALMADHYA 
+PRADESHBHOPAL Central / BHOPAL 462022Energy, 
+Sustainability & 
+Climate ChangeInnovations and Challenges in adopting Clean 
+energy Technologies for Sustainable 
+DevelopmentBasic Offline 6 12/8/2025 12/13/2025
+365 1742191045Dr.AJAY 
+PRASHARJESSY JULIAN TRINITY COLLEGE PUNJAB JALANDHARNorth-West / 
+JALANDHAR144009Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)Enhancing Teaching and Research with 
+Advanced ComputingBasic Offline 6 12/8/2025 12/13/2025
+366 1742805137Dr.Jeevan R 
+DontulwarDr Shweta ShirpurkarSHRI MATHURADAS MOHOTA 
+SCIENCE OF COLLEGE NAGPURMAHARASHTRA NAGPURWestern / 
+NAGPUR440024 Data Sciences Data Science with python. Basic Offline 6 12/8/2025 12/13/2025
+367 1743068251Dr.Kamal Kumar 
+SrivastavaPraveen SachanBABU BANARASI DAS NORTHERN 
+INDIA INSTITUTE OF TECHNOLOGYUTTAR 
+PRADESHLUCKNOWNorthern / 
+LUCKNOW226016Human-Centered 
+ComputingCognitive Science and Artificial Intelligence: 
+Bridging Human Intelligence with Machine 
+Learning (HIML-2025)Basic Offline 6 12/15/2025 12/20/2025
+
+--- Page 21 ---
+21ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+368 1743408218Dr.Vijaykumar 
+Sidramappa 
+BiradarManik Taterao 
+ShindeN. B. NA V ALE SINHGAD COLLEGE OF 
+ENGINEERINGMAHARASHTRA SOLAPURWestern / 
+KEGAON413255Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesEngineering the Future of Mobility 5.0 Basic Offline 6 12/15/2025 12/20/2025
+369 1743168698Dr.Lokanath 
+TripathySantanu SenODISHA UNIVERSITY OF 
+TECHNOLOGY AND RESEARCHODISHA KHORDHAEastern / 
+BHUBANESWAR751003Energy 
+EngineeringAI application for Protection of Modern Power 
+System Integrated with Sustainable Energy 
+SourcesBasic Offline 6 12/15/2025 12/20/2025
+370 1743739704 Dr.Lovaraju Dr A Revanth ReddyLAKIREDDY BALI REDDY COLLEGE 
+OF ENGINEERINGANDHRA 
+PRADESHKRISHNASouth-Central / 
+MYLA V ARAM5212303D Printing and 
+DesignEmerging trends in Additive Manufacturing for 
+Real life ApplicationsBasic Offline 6 12/15/2025 12/20/2025
+371 1743768087 Dr.Sujitha V C JeganathanKUMARAGURU COLLEGE OF 
+TECHNOLOGYTAMIL NADU COIMBATORESouthern / 
+COIMBATORE6410496th Generation 
+Mobile 
+NetworksSustainable 6G Networks: AI for Green and 
+Efficient CommunicationBasic Offline 6 12/15/2025 12/20/2025
+372 1742895639Dr.Vivek N 
+waghmareJagdish KapadnisPUNE VIDYARTHI GRIHA’S COLLEGE 
+OF ENGINEERING & SHRIKRUSHNA 
+S. DHAMANKAR INSTITUTE OF 
+MANAGEMENTMAHARASHTRA NASHIK Western / NASHIK 422004Artificial 
+Intelligence & 
+ApplicationsResearch Issues & Challenges in Artificial 
+Intelligence & Machine LearningBasic Offline 6 12/15/2025 12/20/2025
+373 1742627439 Dr.N BABU Mr P Pradosh KumarSRI SHANMUGHA COLLEGE OF 
+ENGINEERING AND TECHNOLOGYTAMIL NADU SALEMSouthern / 
+SANKARI637304Wearable 
+DevicesAI-Based Wearable Technologies and IoT for 
+Precision Healthcare ApplicationsBasic Offline 6 12/15/2025 12/20/2025
+374 1743064022Dr.
+KAMALAKKAN
+NAN 
+SIV ARAMANDr R Madhana S.A.ENGINEERING COLLEGE TAMIL NADU THIRUV ALLURSouthern / 
+CHENNAI600077Artificial 
+Intelligence & 
+ApplicationsModernising next-gen charging infrastructure for 
+electric vehicles: AI-powered battery 
+management systems and their challengesBasic Offline 6 12/15/2025 12/20/2025
+375 1743140907Dr.Dipti Y 
+SakhareVipin Prakash Yadav MIT ACADEMY OF ENGINEERING MAHARASHTRA PUNE Western / PUNE 412105Telemedicine & 
+Healthcare 
+TechnologyIndustry-Academia Synergy in Healthcare 
+Engineering: Innovation and ApplicationsBasic Offline 6 12/15/2025 12/20/2025
+376 1744223409Dr.Shailendra P 
+DafAkshay AnjikarPRIYADARSHINI BHAGWATI  
+COLLEGE OF ENGINEERINGMAHARASHTRA NAGPURWestern / 
+NAGPUR440009Engineering 
+ManagementSmart Manufacturing and Engineering 
+Management in the Era of Industry 4.0Basic Offline 6 12/15/2025 12/20/2025
+377 1741673553Dr.Swanand 
+Gajanan KulkarniBalasaheb Shahaji 
+GandhareS K N SINHGAD COLLEGE OF 
+ENGINEERINGMAHARASHTRA SOLAPURWestern / 
+PANDHARPUR413304 Industry 4.0/5.0Smart and Sustainable Manufacturing in Industry 
+4.0/5.0: Challenges and OpportunitiesBasic Offline 6 12/15/2025 12/20/2025
+378 1741180773Dr.Vijay Kumar 
+NalamothuMr Shaik YASAR 
+AhmedBHASKAR ENGINEERING COLLEGE TELANGANA RANGAREDDISouth-Central / 
+MOINABAD500075 Data SciencesData Science & Analytics for Decision Making: 
+Tools & TechniquesBasic Offline 6 12/15/2025 12/20/2025
+379 1742335892Dr.S.
+PACKIALAKSH
+MIDr E MAHESWARISRM V ALLIAMMAI ENGINEERING 
+COLLEGETAMIL NADU KANCHIPURAMSouthern / 
+CHENNAI603203Geographic 
+Information 
+System & 
+Remote SensingSmart Water Management: Applications of 
+Remote Sensing, GIS, and SWAT in Real-TimeBasic Offline 6 12/15/2025 12/20/2025
+380 1743157152Dr.JAYA 
+DEEPCHAND 
+GUPTAVIKI TUKARAM 
+PATILA. P. SHAH INSTITUTE OF 
+TECHNOLOGYMAHARASHTRA THANE Western / THANE 400615 Fog ComputingSalesforce Integration with IoT & Fog 
+ComputingBasic Offline 6 12/15/2025 12/20/2025
+381 1743669062Dr.
+MShyamsundarN LalithaKAMALA INSTITUTE OF 
+TECHNOLOGY &  SCIENCETELANGANA KARIMNAGARSouth-Central / 
+KARIMNAGAR505468Artificial 
+Intelligence & 
+ApplicationsAI DRIVEN INNOV ATIONS IN 
+COMMUNICATION & VLSI -TRENDS AND 
+CHALLENGESBasic Offline 6 12/15/2025 12/20/2025
+382 1743664521 Dr.J.Surya Kumari Dr D LenineRAJEEV GANDHI MEMORIAL 
+COLLEGE OF ENGINEERING & 
+TECHNOLOGYANDHRA 
+PRADESHKURNOOLSouth-Central / 
+NANDYAL518501Energy 
+EngineeringDesign and Practical Insights into Digital 
+Controller-Based Islanding Detection for PV 
+Grid SystemsBasic Offline 6 12/15/2025 12/20/2025
+383 1742896786 Dr.Anand C Krishnakaarthik TNANDHA COLLEGE OF 
+TECHNOLOGYTAMIL NADU ERODE Southern / ERODE 638052 Cyber SecurityEnhancing Cybersecurity Knowledge: Exploring 
+Emerging Threats and Defense StrategiesBasic Offline 6 12/15/2025 12/20/2025
+384 1743568915Mrs.NIchit 
+Kalpana SampatKadam Swapnali 
+ShivajiSAHYADRI V ALLEY COLLEGE OF 
+ENGINEERING & TECHNOLOGYMAHARASHTRA PUNE Western / RAJURI 412413Machine 
+LearningMachine Learning Fundamentals Building your 
+AI skills sessionBasic Offline 6 12/15/2025 12/20/2025
+385 1743491979Dr.REEMA 
+SINGHDr Reena Jain PODDAR INTERNATIONAL COLLEGE RAJASTHAN JAIPURNorth-West / 
+JAIPUR302020Engineering 
+Management“Embracing the Green Economy: Exploring 
+Green Technology for a Sustainable Future”Basic Offline 6 12/22/2025 12/27/2025
+386 1741354073 Dr.Navdeep Kaur Deeksha GuptaMEHR CHAND MAHAJAN DA V 
+COLLEGE FOR WOMENCHANDIGARH CHANDIGARHNorth-West / 
+CHANDIGARH160036Artificial 
+Intelligence and 
+ApplicationsOne week Faculty Development Programme on 
+Artificial Intelligence and its ApplicationsBasic Offline 6 12/22/2025 12/27/2025
+
+--- Page 22 ---
+22ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+387 1743138391 Dr.Vijay MoreDr Prashant 
+Madhukar YawalkarMET'S INSTITUTE OF ENGINEERING MAHARASHTRA NASHIK Western / NASHIK 422003Cloud 
+TechnologyEnergizing the Future: Leveraging the Synergy 
+of Cloud Computing and Artificial IntelligenceAdvanced Offline 12 12/22/2025 1/3/2026
+388 1743152874Dr.KOLLI 
+LALITNARAYA
+NDr M 
+SRIRAMAMURTH
+YSIR C R REDDY COLLEGE OF 
+ENGINEERINGANDHRA 
+PRADESHWEST 
+GODA V ARISouth-Central / 
+ELURU5340073D Printing and 
+DesignChallenges of 3D Printing in Biomedical 
+ApplicationsBasic Offline 6 12/29/2025 1/3/2026
+389 1743058619 Dr.M BasavarajDr Kishen 
+Karumbaiah B JCOORG INSTITUTE OF TECHNOLOGY KARNATAKA KODAGUSouth-West / 
+PONNAMPET571216Advanced 
+MaterialsAdvancements in Materials and Technologies: 
+Thermal, Mechanical and Cryogenic 
+ApplicationsBasic Offline 6 12/29/2025 1/3/2026
+390 1741856250Dr.Mahendran 
+NagalingamDr Fossy Mary 
+ChackoSAINTGITS COLLEGE OF 
+ENGINEERINGKERALA KOTTAYAMSouth-West / 
+KOTTAYAM686532Energy 
+EngineeringAI in Power Converters for Sustainable Energy 
+SystemsBasic Offline 6 1/5/2026 1/10/2026
+391 1742638394 Dr.Tabassum Ara Shahista Tabassum HKBK COLLEGE OF ENGINEERING KARNATAKABANGALORE 
+URBANSouth-West / 
+BANGALORE560045Quantum 
+Computing & 
+TechnologyBits to Qubits: Transforming Technology with 
+Quantum ComputingBasic Offline 6 1/5/2026 1/10/2026
+392 1741856469Dr.Flower Queen 
+MPMaheswaran G SRM TRP ENGINEERING COLLEGE TAMIL NADUTIRUCHIRAPPAL
+LISouthern / TRICHY 621105Electric Vehicles 
+& Hydrogen 
+Fuel Cell 
+VehiclesAI and IIoT Synergies: Transforming Solar-
+Powered EV Charging for a Greener FutureBasic Offline 6 1/5/2026 1/10/2026
+393 1742358603 Dr.Binod Kumar Vaishali SuryawanshiJSPM'S RAJARSHI SHAHU COLLEGE 
+OF ENGINEERINGMAHARASHTRA PUNE Western / PUNE 411033Artificial 
+Intelligence and 
+ApplicationsCrafting the Future : The Transformative Impact 
+of AI in SocietyBasic Offline 6 1/5/2026 1/10/2026
+394 1743842062Dr.Narendra Pal 
+Singh RathorePraveen BhanodiaACROPOLIS INSTITUTE OF 
+TECHNOLOGY AND RESEARCHMADHYA 
+PRADESHINDORE Central / INDORE 453771Large Language 
+ModelDemystifying Large Language Models: 
+Academic Applications and Research 
+OpportunitiesBasic Offline 6 1/5/2026 1/10/2026
+395 1743662644 Dr.R Anuradha R GopiADITHYA INSTITUTE OF 
+TECHNOLOGYTAMIL NADU COIMBATORESouthern / 
+COIMBATORE641107Sustainable 
+Construction 
+TechnologyTrendy and Sustainable Development in Modern 
+Construction IndustryBasic Offline 6 1/5/2026 1/10/2026
+396 1743482762Dr.MANGALAM 
+RDr Ganesh MuthuramCIT SANDWICH POLYTECHNIC 
+COLLEGETAMIL NADU COIMBATORESouthern / 
+COIMBATORE641014 Energy StorageAdvanced Energy Storage Techniques For 
+Sustainable DevelopmentBasic Offline 6 1/5/2026 1/10/2026
+397 1743069444Mr.V ANVE 
+DEVIDAS 
+BABAJIMajid Afsar HussainKOTI VIDYA CHARITABLE TRUST'S 
+ALAMURI RATNAMALA INSTITUTE 
+OF ENGINEERING AND 
+TECHNOLOGYMAHARASHTRA THANEWestern / 
+SHAHAPUR421601Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)Emerging Trends in Cyber Security Basic Offline 6 1/5/2026 1/10/2026
+398 1741773890Dr.ANILKUMAR 
+ADr Umashankar M K.S.INSTITUTE OF TECHNOLOGY KARNATAKABANGALORE 
+URBANSouth-West / 
+BANGALORE5600623D Printing and 
+DesignApplication of Artificial Intelligence & Machine 
+Learning in 3D Printing for Next-Gen Materials 
+and Industry 4.0/5.0Basic Offline 6 1/19/2026 1/24/2026
+399 1743060428Dr.
+JayarajumadhavanDrSreeja PUKF COLLEGE OF ENGINEERING & 
+TECHNOLOGYKERALA KOLLAMSouth-West / 
+PARIPPALLY691302Internet of 
+Things (IoT)Integration of AI and IIoT for design of Solar 
+Powered Electric Vehicle charging infrastructure 
+for greener futureBasic Offline 6 1/19/2026 1/24/2026
+400 1743679701 Dr.Ankur Gupta Suhaib Ahmed BattMODEL INSTITUTE OF ENGINEERING 
+AND TECHNOLOGYJAMMU AND 
+KASHMIRJAMMUNorth-West / 
+JAMMU180001Advanced 
+Computing 
+(Supercomputin
+g, Quantum 
+Computing)Emerging Trends in AI, Metaverse, and Quantum 
+ComputingBasic Offline 6 1/19/2026 1/24/2026
+401 1742280317Dr.ABHISEK 
+KUMAR 
+TRIPATHIDr A K TiwariBUDDHA INSTUTUTE OF 
+MANAGEMENTUTTAR 
+PRADESHGORAKHPURNorthern / 
+SAHJANWA273209Behavioral 
+Financerole of financial literacy in behavioral finance Basic Offline 6 1/19/2026 1/24/2026
+402 1740981507 Dr.Arulraj MAnand Partheeban C 
+MSRI KRISHNA POLYTECHNIC 
+COLLEGETAMIL NADU COIMBATORESouthern / 
+COIMBATORE6410423D Printing and 
+DesignAdvancements in Additive Manufacturing Basic Offline 6 2/2/2026 2/7/2026
+403 1742621113Dr.
+RAJINDERKUM
+AR M MATHV G SangamB.L.D.E.A'S V .P DR P.G.HALAKATTI 
+COLLEGE OF ENGG. & TECH., 
+BIJAPUR-03KARNATAKA BIJAPURSouth-West / 
+BIJAPUR586103Artificial 
+Intelligence & 
+ApplicationsIntegrating AI & Telemonitoring: Innovations in 
+Smart HealthcareBasic Offline 6 2/2/2026 2/7/2026
+404 1741478751 Dr.CHITRA G SHANTHIMEENAGOVERNMENT POLYTECHNIC 
+COLLEGETAMIL NADU KRISHNAGIRISouthern / 
+BODICHIPALLI635113Artificial 
+IntelligenceArtificial Intelligence in Nanocomposite 
+Hydrogels and Drug delivery AnalysisBasic Offline 6 2/2/2026 2/7/2026
+
+--- Page 23 ---
+23ALL India council for Technical Education (AICTE) Training and Learning (ATAL)
+ Face to Face (Offline) 
+Faculty Development Programme 2025-26 
+Sanctioned List
+Sr NoFDP 
+Application 
+NumberCoordinator 
+NameCocoordinator 
+NameInstitute Name Institute State Institute DistrictInstitute Town 
+VillageInstitute 
+PincodeThrust Area Title of FDPFDP 
+LevelFDP 
+ModeDays of 
+FDPStart Date of 
+FDPEnd Date 
+of FDP
+405 1742901860Dr.SWAPNIL M 
+PARIKHDr Prathamesh R 
+PotdarPARUL INSTITUTE OF TECHNOLOGY GUJARAT V ADODARACentral / 
+V ADODARA391760Block Chain 
+TechnologyBlockchain & Industry 5.0: The Future of Secure 
+& Smart FactoriesAdvanced Offline 12 2/9/2026 2/21/2026
