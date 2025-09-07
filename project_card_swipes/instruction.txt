@@ -1,0 +1,10 @@
+1) read the file and print the first 3 records on the screen. Also display the number of lines and dynamically count the total number of employees
+
+2) print all info of employees who are terminated. If an employee is terminated, then you will find the string terminated in the comment line
+
+3) print all info of employees who started before year 2020
+
+
+
+##########STEPS##########
+1) Read the file using notepad and understand the structure
