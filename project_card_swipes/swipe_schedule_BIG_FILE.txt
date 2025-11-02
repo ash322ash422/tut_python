@@ -54,3 +54,32 @@ card swipes: 7:32, 14:23
 
 group: IT
 comments: terminated
+--------------- record 5---------------------------
+date today:2025-02-17
+
+first name: vicky 
+middle name: r
+last name: smith
+employee id: c0096
+date of join: 2019-07-23
+
+card swipes: 7:32, 8:43, 8:50, 13:12, 14:15, 19:42
+
+
+group: HR
+comments: The person is disabled
+--------------- record 6---------------------------
+date today:2025-02-17
+
+first name: durga 
+middle name: m
+last name: oliver
+employee id: c0096
+date of join: 2024-07-23
+
+card swipes: 7:32, 8:43, 8:50, 13:12, 14:15, 19:42
+
+
+group: HR
+comments: 
+

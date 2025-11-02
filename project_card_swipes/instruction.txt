@@ -4,8 +4,10 @@
 
 3) Print date of join for all employees.
 
-4) Print data of employees who started before year 2020
+4) a) Print data of employees who started before year 2020
+   b) Create a function that print data of employees who started before year 2020
 
+5) Create a program that asks user to enter employee id, and based on that it prints the info of that employee
 
 
 ##########STEPS##########
