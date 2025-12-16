@@ -11,11 +11,11 @@ customerNumber,customerName,contactLastName,contactFirstName,country
 131,Land of Toys Inc.,Lee,Kwai,USA
 141,Euro+ Shopping Channel,Freyre,Diego ,Spain
 144,"Volvo Model Replicas, Co",Berglund,Christina ,Singapore
-145,Danish Wholesale Imports,Petersen,Jytte ,Germany
+145,John Wholesale Imports,Petersen,Jytte ,Germany
 146,"Saveley & Henriot, Co.",Saveley,Mary ,France
 148,"Dragon Souveniers, Ltd.",Natividad,Eric,Singapore
 151,Muscle Machine Inc,Young,Jeff,Null
-157,Diecast Classics Inc.,Leong,Kelvin,USA
+157,John Classics Inc.,Leong,Kelvin,USA
 161,Technics Stores Inc.,Hashimoto,Juri,USA
 166,Handji Gifts& Co,Victorino,Wendy,Singapore
 167,Herkku Gifts,Oeztan,Veysel,Germany
@@ -24,78 +24,22 @@ customerNumber,customerName,contactLastName,contactFirstName,country
 172,"La Corne D'abondance, Co.",Bertrand,Marie,France
 173,Cambridge Collectables Co.,Tseng,Jerry,USA
 175,Gift Depot Inc.,King,Julie,USA
-177,Osaka Souveniers Co.,Kentary,Mory,Null
+177,John Souveniers Co.,Kentary,Mory,China
 181,Shamlodhiya Inc.,Frick,Michael,USA
 186,"Toys of Finland, Co.",Karttunen,Matti,Finland
 187,"AV Stores, Co.",Ashworth,Rachel,UK
 189,"Clover Collections, Co.",Cassidy,Dean,Singapore
-198,Auto-Moto Classics Inc.,Taylor,Leslie,USA
+198,Shamlodhiya,Taylor,Leslie,USA
 201,"UK Collectables, Ltd.",Devon,Elizabeth,UK
 202,Canadian Gift Exchange Network,Tamuri,Yoshi ,Finland
 204,Online Mini Collectables,Barajas,Miguel,USA
 205,Toys4GrownUps.com,Young,Julie,USA
 206," Asian Shopping Network, Co",Walker,Brydey,Singapore
 209,Mini Caravy,Citeaux,Caravy,France
-211,"King Kong Collectables, Co.",Gao,Mike,Germany
+211,"John Kong Collectables, Co.",Gao,Mike,Germany
 216,Enaco Distributors,Saavedra,Eduardo ,Spain
 219,Boards & Toys Co.,Young,Mary,USA
 227,Shamlodhiya Collectables,Ibsen,Palle,Germany
-237,  ANG Resellers,Camino,Alejandra ,Spain
+237,  John Resellers,Camino,Alejandra ,Spain
 239,Collectable Mini Designs Co.,Thompson,Valarie,USA
 240,giftsbymail.co.uk,Bennett,Helen ,UK
-242,Alpha Cognac   ,Roulet,Annette ,France
-247,Messner Shopping Network,Messner,Renate ,Germany
-249,      Amica Models & Co.,Accorti,Paolo ,Germany
-250,Lyon Souveniers,Da Silva,Daniel,France
-256,Auto Associés & Cie.,Tonini,Daniel ,France
-259,"Toms Spezialitäten, Ltd",Pfalzheim,Henriette ,Germany
-260,"Royal Canadian Collectables, Ltd.",Lincoln,Elizabeth ,Finland
-273,"Franken Gifts, Co",Franken,Peter ,Germany
-276,"shamlodhiya Decorations, Ltd",O'Hara,Anna,Australia
-278,Rovelli Gifts,Rovelli,Giovanni ,Germany
-282,Souveniers And Things Co.,Huxley,Adrian,Australia
-286,shamlodhiya's Replicas Co.,Hernandez,Marta,USA
-293,BG&E Collectables,Harrison,Ed,Germany
-298,"Vida Sport, Ltd",Holz,Mihael,Germany
-299,"Norway Gifts By Mail, Co.",Klaeboe,Jan,Australia
-303,Schuyler Imports,Schuyler,Bradley,Australia
-307,Der Hund Imports,Andersen,Mel,Germany
-311,"Oulu Toy Supplies, Inc.",Koskitalo,Pirkko,Finland
-314,Petit Auto,Dewey,Catherine ,Australia
-319,Mini Classics,Frick,Steve,USA
-320,Mini Creations Ltd.,Huang,Wing,USA
-321,Corporate Gift Ideas Co.,Brown,Julie,USA
-323,"Down Under Souveniers, Inc",Graham,Mike,Germany
-324,"Stylish Desk Decors, Co.",Brown,Ann ,UK
-328,Tekni Collectables Inc.,Brown,William,USA
-333,"Australian Gift Network, Co",Calaghan,Ben,Australia
-334,Suominen Souveniers,Suominen,Kalle,Finland
-335,"Cramer Spezialitäten, Ltd",Cramer,Philip ,Germany
-339,"Classic Gift Ideas, Inc",Cervantes,Francisca,USA
-344,CAF Imports,Fernandez,Jesus,Spain
-347,"Men 'R' US Retailers, Ltd.",Chandler,Brian,USA
-348,"Asian Treasures, Inc.",McKenna,Patricia ,Finland
-350,Marseille Mini Autos,Lebihan,Laurence ,France
-353,Reims Collectables,Henriot,Paul ,France
-356,"SAR Distributors, Co",Kuger,Armand,Australia
-357,GiftsForHim.com,MacKinlay,Wales,Germany
-361,Kommission Auto,Josephs,Karin,Germany
-362,Gifts4AllAges.com,Yoshido,Juri,USA
-363,Online Diecast Creations Co.,Young,Dorothy,USA
-369,"Lisboa Souveniers, Inc",Rodriguez,Lino ,Germany
-376,Precious Collectables,Urs,Braun,Singapore
-379,Collectables For Less Inc.,Nelson,Allen,USA
-381,Royale Belge,Cartrain,Pascale ,Japan
-382,Salzburg Collectables,Pipps,Georg ,Japan
-385,Cruz & Sons Co.,Cruz,Arnold,Japan
-386,L'ordine Souveniers,Moroni,Maurizio ,Singapore
-398,"Tokyo Collectables, Ltd",Shimamura,Akiko,Japan
-406,Auto Canal+ Petit,Perrier,Dominique,France
-412,"Extreme Desk Decorations, Ltd",McRoy,Sarah,Singapore
-415,"Bavarian Collectables Imports, Co.",Donnermeyer,Michael,Germany
-424,Classic Legends Inc.,Hernandez,Maria,USA
-443,"Feuer Online Stores, Inc",Feuer,Alexander ,Germany
-447,Gift Ideas Corp.,Lewis,Dan,USA
-448,Scandinavian Gift Ideas,Larsson,Martha,Finland
-450,The Sharp Gifts Warehouse,Frick,Sue,USA
-452,Mini Auto Werke,Mendel,Roland ,Japan
