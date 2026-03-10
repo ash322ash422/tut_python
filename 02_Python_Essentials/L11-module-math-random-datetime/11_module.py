@@ -9,3 +9,4 @@ print(f"Factorial = {res_fact}")
 res_sqrt = math.sqrt(110)
 print(f"Square root = {res_sqrt}")
 
+# https://docs.python.org/3/library/math.html

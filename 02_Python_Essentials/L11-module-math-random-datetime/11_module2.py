@@ -21,7 +21,7 @@ Types of Modules in Python
 Library is A collection of modules
 """
 
-import tut_py_4_module_math_utils as utils
+import my_math_utils as utils
 
 res = utils.add(5, 3)
 print(f"add: {res}")        # Output: 8
@@ -32,5 +32,5 @@ print(f"subtract: {res}")        # Output: 8
 print(utils.PI)               # Output: 3.14159
 print(utils.EULER)               
 
-res = utils.fibonacci(6)
-print(f"fibonacci: {res}")        
+# res = utils.fibonacci(6) # THROWS AttributeError
+# print(f"fibonacci: {res}")        
