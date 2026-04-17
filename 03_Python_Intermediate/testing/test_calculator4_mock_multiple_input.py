@@ -6,10 +6,12 @@ import pytest
 from calculator import main
 
 @pytest.mark.parametrize("a,b,add_result,sub_result", [
-    ("10", "5", "15.0", "5.0"),
     ("2", "3", "5.0", "-1.0"),
-    ("0", "0", "0.0", "0.0")
+    ("-1", "1", "0.0", "-2.0"),
+    ("0", "0", "0.0", "0.0"),
+    ("2.5", "3.5", "6.0", "-1.0")
 ])
+
 def test_main_multiple(monkeypatch, capsys, a, b, add_result, sub_result):
     
     inputs = iter([a, b])
