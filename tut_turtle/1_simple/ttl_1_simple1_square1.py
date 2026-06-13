@@ -20,11 +20,11 @@ turtle.done()
 #############################################
 #STEP2: Lets draw the 1st + 2nd line
  
-# # Set up the turtle
+# Set up the turtle
 # t = turtle.Turtle()  # Create a turtle object
 # turtle.bgcolor("lightblue")  # Set background color
 # t.pencolor("green")  # Set pen color 
-# t.pensize(3)  # Set pen thickness
+# t.pensize(6)  # Set pen thickness
 
 
 # t.forward(100)       # Move forward 100 pixels 
@@ -91,8 +91,8 @@ turtle.done()
 # # Set up the turtle
 # t = turtle.Turtle()  # Create a turtle object
 # turtle.bgcolor("lightblue")  # Set background color
-# t.pencolor("green")  # Set pen color 
-# t.pensize(3)  # Set pen thickness
+# t.pencolor("yellow")  # Set pen color 
+# t.pensize(6)  # Set pen thickness
 
 # # Draw a square
 # for i in range(4):

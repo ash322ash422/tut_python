@@ -45,7 +45,8 @@ turtle.done()
 # t.speed(1)
 
 
-# for i in range(50):
+# for i in range(50): # i = 0, 1, 2, 3, 4, 5, ..49
 #     t.forward(i * 10)
 #     t.left(90)
+    
 # turtle.done()

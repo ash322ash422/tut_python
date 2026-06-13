@@ -1,10 +1,11 @@
 import turtle
 
-# STEP1: Lets draw following figure: forward and then left. Keep increasing the forward distance
+# # STEP1: Lets draw following figure: forward and then left. Keep increasing the forward distance
 # t = turtle.Turtle()
 # turtle.bgcolor("black")
 # t.speed(20)              
 # t.pencolor("green") 
+# t.pensize(6)
 
 # t.forward(5)
 # t.left(95)
@@ -37,9 +38,10 @@ import turtle
 # t = turtle.Turtle()
 # turtle.bgcolor("black")
 # t.speed(20)              
-# t.pencolor("green") 
+# t.pencolor("green")
+# t.pensize(6)
 
-# for i in range(5,36,5): # i = 5,10,15,..30
+# for i in range(5,36,5): # i = 5,10,15,..35
 #     t.forward(i)
 #     t.left(95)
 
@@ -52,7 +54,8 @@ import turtle
 # t = turtle.Turtle()
 # turtle.bgcolor("black")
 # t.speed(20)              
-# t.pencolor("green") 
+# t.pencolor("green")
+# t.pensize(6)
 
 # for i in range(5,401,5): # changed iteration to higher number
 #     t.forward(i)
@@ -82,22 +85,22 @@ import turtle
 # t = turtle.Turtle()
 # turtle.bgcolor("black")
 # t.speed(20)              
-# t.pencolor("green") 
+# t.pencolor("yellow") 
 
 # for i in range(0,401,1): 
 #     t.forward(i)
-#     t.left(85) # change this to 75,80,85,100,110
+#     t.left(110) # change this to 75,80,85,100,110
 
 # # Keep the window open until clicked
 # turtle.done()
 
 
 #########################################
-# STEP Final: Now change the left angle to 91
+# # STEP Final: Now change the left angle to 91
 t = turtle.Turtle()
 turtle.bgcolor("black")
 t.speed(20)              
-t.pencolor("green") 
+t.pencolor("yellow") 
 
 for i in range(0,401,1):
     t.forward(i)
